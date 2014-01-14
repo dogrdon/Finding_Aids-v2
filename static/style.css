@@ -4,8 +4,28 @@
 
 h1,
 h2,
-h3 {
+.special-h3, .subseries>h4 {
   color: #82041C; /* NYAM Maroon */
+}
+
+h1, .h1{
+  font-size: 25pt;
+}
+
+h2, .h2 {
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+h3, .h3{
+  font-weight: bold;
+  font-size: 12pt;
+  color: #333;
+}
+
+.subseries>h4{
+  font-size: 12pt;
+  font-weight: bold;
 }
 
 img.logo {

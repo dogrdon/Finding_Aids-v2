@@ -160,7 +160,7 @@
                          <h1>
                              <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:titleproper"/>
                              <xsl:if test="ead:eadheader/ead:filedesc/ead:titlestmt/ead:subtitle">
-                                 <xsl:text>: </xsl:text>
+                                 <!--<xsl:text>: </xsl:text>-->
                                  <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:subtitle"/>
                              </xsl:if>
                          </h1>
@@ -271,7 +271,7 @@
         <div class="col-md-9" role="main">
             <div class="bs-docs-section">
                 <div class="page-header overview">
-                    <h2 id="overview">Overview</h2>
+                    <h2 id="overview">Collection Summary</h2>
                     <div class="row">
                         <div class="col-md-9">
                             <dl class="dl-horizontal">
@@ -337,7 +337,7 @@
 
                     
                     <!--this should be accounted for in the CSS.  for now, I'm just adding an HTML break-->
-                    <br/>
+                    <!--<br/>-->
                     <xsl:apply-templates select="/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:titlestmt[1]/ead:sponsor[1]"/>
                     <xsl:apply-templates select="ead:archdesc/ead:did/ead:note"/>
                     <xsl:apply-templates select="ead:archdesc/ead:acqinfo | /ead:ead/ead:archdesc/ead:descgrp/ead:acqinfo "/>
@@ -944,10 +944,11 @@
                 <xsl:if test="$locationOfIDs = 'c' and  ead:did/ead:unittitle/@id">
                     <a id="{ead:did/ead:unittitle/@id}"/>
                 </xsl:if>
-                <h3>
+                <h3 class="special-h3">
                     <xsl:attribute name="id">
                         <xsl:value-of select=" if ($locationOfIDs = 'c') then @id else translate(translate(translate(translate(translate(ead:did/ead:unittitle, ' ', '_'), &quot;,.&apos;&quot;, ''), '(', ''), ')', ''), '/', '')"/>
                     </xsl:attribute>
+                    <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
@@ -956,7 +957,7 @@
                         </small>
                     </xsl:if>
                 </h3>
-                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc)"/>
+                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid)"/>
                 <xsl:apply-templates select="ead:* except (ead:did | ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12)"/>
                 <!-- group and go through the next level of components with the following called template -->
                 <xsl:if test="ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
@@ -974,6 +975,7 @@
                     <xsl:attribute name="id">
                         <xsl:value-of select=" if ($locationOfIDs = 'c') then @id else translate(translate(translate(translate(translate(ead:did/ead:unittitle, ' ', '_'), &quot;,.&apos;&quot;, ''), '(', ''), ')', ''), '/', '')"/>
                     </xsl:attribute>
+                    <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
@@ -982,7 +984,7 @@
                         </small>
                     </xsl:if>
                 </h4>
-                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc)"/>
+                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid)"/>
                 <xsl:apply-templates select="* except (ead:did | ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12)"/>
                 <!-- group and go through the next level of components with the following called template -->
                 <xsl:if
@@ -1015,7 +1017,7 @@
                 </xsl:if>
                 <xsl:apply-templates select="ead:did/ead:unittitle"/>
                 <xsl:if test="ead:did/ead:unitid">
-                    <br/>
+                    <br/> 
                     <xsl:apply-templates select="ead:did/ead:unitid"/>
                 </xsl:if>
                 <xsl:if test="ead:did/ead:physdesc">
