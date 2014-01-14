@@ -556,7 +556,7 @@
         <xsl:choose>
             <xsl:when test="parent::ead:bioghist and (. eq $bioghist-title)"/>
             <xsl:otherwise>
-                <h3 id="{generate-id(.)}">
+                <h3 class="head-info" id="{generate-id(.)}">
                     <xsl:apply-templates/>
                 </h3>
             </xsl:otherwise>
