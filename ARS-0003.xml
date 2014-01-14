@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARS-0003</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Surgical Research Society Minutes and Records,</titleproper> 
+		  <subtitle>1915-1946</subtitle> 
+		 <author>Collection processed and described by Rebecca Pou</author>
+
+		</titlestmt> 
+		<publicationstmt>
+            <date>2010</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20100811">August 11, 2010.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">Surgical Research Society</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+
+		<unittitle encodinganalog="245">Surgical Research Society Minutes and Records</unittitle> 
+		<unitdate type="inclusive">1915-1946</unitdate> 
+		<physdesc> <extent encodinganalog="300">.4 linear feet (1 box)</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Surgical Research Society Minutes and Records. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+<head>Historical Note</head> 
+	 <p>The Surgical Research Society was formed in 1915. In its early years, meetings were held biannually, but later a system of two day yearly meetings was adopted. Members hailed from Baltimore, Boston, Philadelphia, and New York City, as well as other cities on a case by case basis. Meetings were held in these cities, with the chosen city's members acting as host.</p>
+
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>This small collection primarily contains minutes, meeting programs, correspondence, membership lists, and other records of the Society. A letter concerning the transfer of these records to the New York Academy of Medicine is also included.</p> 
+	 </scopecontent> 	  
+	 <arrangement>
+	 <head>Arrangement of Collection</head>
+	 <p>The records are arranged chronologically.</p>
+	 </arrangement>	 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Medicine -- Societies, etc.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Surgery -- Societies, etc.</subject>	 
+		  <corpname encodinganalog="610" source="lcnaf">Surgical Research Society.</corpname>	  
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined">
+
+	 	<head>Container List</head>
+		<c01>
+		<did>
+		<unittitle>Surgical Research Society Minutes and Records</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">1</container>
+			<unitdate>1915-1927</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">2</container>
+			<unitdate>1928</unitdate>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">3</container>
+			<unitdate>1928-1929</unitdate>		
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">4</container> 
+			<unitdate>1930-1931</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">5</container>
+			<unitdate>1932</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">6</container>
+			<physdesc>1933</physdesc>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">7</container>
+			<physdesc>1934</physdesc>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">8</container>
+			<physdesc>1935</physdesc>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">9</container>
+			<physdesc>1936</physdesc>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">10</container>
+			<physdesc>1937-1941</physdesc>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">11</container>
+			<unittitle>Accession Letter,</unittitle>
+
+			<physdesc>1946</physdesc>
+		</did>
+		</c02>										
+	</c01>
+	</dsc>	
+	<userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Provenance</head> 
+		<p>On deposit by the Surgical Research Society.</p>
+
+	 </acqinfo> 
+	 <processinfo encodinganalog="538">
+	 <p>The original folders in which the records were stored have been discarded. Prior to disposal, copies of the front of the folders were made and placed with the corresponding records.</p>
+	 </processinfo>
+  </archdesc>
+</ead>

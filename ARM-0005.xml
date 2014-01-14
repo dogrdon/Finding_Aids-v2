@@ -1,0 +1,3237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARM-0005</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Alexander E. Macdonald Papers,</titleproper> 
+		  <subtitle>1865-1906</subtitle> 
+		 <author>Collection processed and described by Erin Albritton</author>
+		</titlestmt> 
+		<publicationstmt>
+            <date>2009</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="">.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <persname encodinganalog="100">Alexander E. Macdonald</persname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+		<unittitle encodinganalog="245">Alexander E. Macdonald Papers and Photographs</unittitle> 
+		<unitdate type="inclusive">1865-1906</unitdate> 
+		<physdesc> <extent encodinganalog="300">10 linear feet; 8 boxes</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Malloch Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Alexander E. Macdonald Papers and Photographs. Malloch Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+	<p>Alexander E. Macdonald (1845-1906), LL.B., M.D., was a Fellow of the New York Academy of Medicine and a prominent New York psychiatrist.  Born in Toronto, Dr. Macdonald was educated at the Toronto Model Grammar School and at Upper Canada College.  Although he began his medical studies at the University of Toronto, Dr. Macdonald moved to New York and ultimately received degrees in both medicine (M.D.) and law (LL. B.) from the University of the City of New York (now New York University) in 1870 and 1881, respectively.</p>
+<p>Upon graduation from medical school, Dr. Macdonald was appointed assistant physician (and, later, resident physician) at the Hospital for Epileptics and Paralytics, Blackwell's Island, in 1870.  The next year he became chief of staff of the Charity and Allied Hospitals, Blackwell's Island.  In 1874, Dr. Macdonald began his long tenure at the New York City Asylum for the Insane, Ward's Island (later renamed the Manhattan State Hospital East), first as resident physician and then, from 1875 to 1904, as medical superintendent.  In 1886, Dr. Macdonald became general superintendent of the New York City Asylums.  This position brought with it responsibility for the administration not only of the New York City Asylum, Ward's Island (with its branches on Randall's Island and in Central Islip, Long Island), but also of the Reception Pavilion of the Insane, Bellevue and the New York City Lunatic Asylum, Blackwell's Island (with branches on Ward's and Hart's Island).</p>
+<p>Notable achievements during Dr. Macdonald's career include his frequent consultation as an expert witness in important trials including the Guiteau, Rhinelander and Stokes cases as well as his work in the care of the tubercular insane, and the introduction of tent life for their treatment.  Dr. Macdonald published widely and was a member of a number of medical organizations including not only the New York Academy of Medicine but also the American Medical Association, the Medical Society of the State of New York, the Medical Society of the County of New York, and the New York Psychiatrical Society.  He was an honorary member of both the American Medico-Psychological Association (for which he served as President in 1904) and the British Medico-Psychological Association.  Dr. Macdonald was routinely sent as a delegate of these organizations to various congresses and association meetings.  In addition to his professional affiliations, Dr. Macdonald was a member of the Lotus Club and a Mason of Holland Lodge, New York City.</p>
+<p>Over the course of his career, Dr. Macdonald held a number of academic posts.  In 1874, he was appointed lecturer on Medical Jurisprudence at New York University.  Subsequently, he became Professor of Psychological Medicine and Medical Jurisprudence, and was Emeritus Professor at NYU at the time of his death.</p>
+<p>Alexander E. Macdonald was married to Elizabeth Woodbury Barrett (of Portland, Maine) on July 10, 1883.  Together they had two children -- a son, Charles, and a daughter, Evelyn.  Dr. Macdonald died on December 7, 1906.</p>
+ </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+	 </scopecontent> 	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <corpname source="lcnaf" encodinganalog="610">New York (City). Asylum for the Insane, Ward's Island.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610">New York (State). Board of Social Welfare.</corpname>
+		  <corpname source="lcnaf" encodinganalog="610">Manhattan Psychiatric Center -- History -- 19th century.</corpname>	
+		  <subject source="lcsh" encodinganalog="650">Asylums -- New York (State) -- 19th century.</subject>
+		  <subject source="lcsh" encodinganalog="650">Medicine -- New York (State) -- New York -- 19th century.</subject>		 
+		  <subject source="lcsh" encodinganalog="650">Tuberculosis -- Treatment.</subject>
+		  <corpname source="lcnaf" encodinganalog="610">New York (City) Lunatic asylum, Blackwells Island.</corpname> <!--[from old catalog] in LC authorities-->
+		  <corpname source="lcnaf" encodinganalog="610">Manhattan State Hospital</corpname>
+		  <corpname source="lcnaf" encodinganalog="610">New York City Asylum for the Insane (Central Islip, N.Y.)</corpname>
+		  <corpname source="lcnaf" encodinganalog="610">New York University</corpname>
+		  <corpname source="lcnaf" encodinganalog="610">University of the City of New York</corpname> 	  
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined">
+	 	<head>Container List</head>
+		<c01 level="series">
+		 <did>
+		 <unitid>Series I</unitid>
+		 <unittitle>Business Records</unittitle>
+		 </did>
+		 <scopecontent>
+		 <head>Scope and Content</head>
+		 <p><emph render="bold">Business Records</emph> contains material generated during Dr. Macdonald's tenure as medical superintendent at the New York City Asylum for the Insane, Ward's Island, and general superintendent of the New York City Asylums.  The series is divided into four subseries including:  (a) <emph render="bold">Correspondence</emph> covering a wide range of institutional issues including, but not limited to, the purchase of goods and services; billing and account disputes; salary, wage and labor issues; construction and upkeep of building facilities; asylum conditions, practices and policies; inmate concerns; association and committee work; conference attendance; and legal issues; (b) <emph render="bold">Memoranda</emph> generated during the course of business on various topics including supplies; salaries and wages; and building facilities; (c) <emph render="bold">Asset Inventories</emph> for both the hospital and superintendent's residence; (d) <emph render="bold">Purchasing Records</emph> relating to the institutional acquisition of various goods and services; and (e) <emph render="bold">Other</emph> documentation including an architectural drawing and blueprint of building plans from Ward's Island.</p>
+		 </scopecontent>
+		 <c02 level="subseries">
+		 <did>
+		 <unitid>Subseries A</unitid>
+		 <unittitle>Correspondence</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged chronologically.</p>
+		 </arrangement>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>1868-1894</unitdate>
+					<note><p>includes a letter to A.E. Macdonald from the family physician of William Magear "Boss" Tweed, 1873, on Tweed stationary</p></note>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1895</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">3</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1896</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">4</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Apr, 1897</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">5</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>May-Nov, 1897</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">6</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Dec 1897</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">7</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-June, 1898</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">8</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>July-Dec, 1898</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">9</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Mar, 1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">10</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Apr-Jun, 1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">11</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jul 1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">12</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Aug-Sep, 1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">13</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Oct-Dec, 1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">14</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Jun, 1900</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">15</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jul-Dec, 1900</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">16</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1901</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">17</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1902</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">18</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Jun, 1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">19</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jul-Dec, 1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">20</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Jun, 1904</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">21</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jul-Dec, 1904</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">22</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Jun, 1905</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">23</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jul-Dec, 1905</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">24</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1906</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">25</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>Jan-Dec, 1907</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">26</container>
+					<unittitle>Correspondence,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>																																																																					
+		</c02>
+		<c02 level="subseries">
+		 <did>
+		 <unitid>Subseries B</unitid>
+		 <unittitle>Memoranda</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged chronologically.</p>
+		 </arrangement>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital. Momoranda for Board meeting, or meeting of the Finance Committee . . . ,</unittitle>
+					<unitdate>1896</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - State Commission in Lunacy. Coffee memorandum,</unittitle>
+					<unitdate>[1897?]</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital, Central Islip. Memorandum. In the matter of the "Trojan" gravity heaters: -- . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital. Memorandum: -- from Dr. Smith. Mr. Heins visited the farm Sunday forenoon, . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Manhattan State Hospital, Central Islip. Memorandum. We had canned corn and succotash . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital, Central Islip. Memorandum. Comments on notes of the official visit of the State Commission in Lunacy . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital, Central Islip. Memorandum. In the matter of reduction in salaries and wages . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - State Commission in Lunacy. Memoranda of conference between General Superintendent of Manhattan State Hospital and the State Commission in Lunacy . . . ,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memorandum for Mr. Dodge to report to the Board . . . ,</unittitle>
+					<unitdate>1901</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital, East. Ward's Island, New York City. Memorandum: Dr. Pettit will please mark on the history of the patient Morawaki . . . ,</unittitle>
+					<unitdate>1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - Manhattan State Hospital, East. Ward's Island, New York City. Memorandum: The Resident Steward will please report in writing . . . ,</unittitle>
+					<unitdate>1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memorandum of Mr. Sussdorff's visit,</unittitle>
+					<unitdate>1904</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - State Commission in Lunacy. Manhattan State Hospital. Memorandum. Names of firms to whom proposals may be sent inviting bids for supplies: . . . ,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memorandum. Mr. Cole: Railroad tickets . . . ,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>State of New York - State Commission in Lunacy. Tea memorandum,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memoranda as a result of Commission's visit,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memoranda. Estimate regarding the cost of the use of hard, soft, and pea coal,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Central Islip. Data regarding soft coal,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Memorandum: Cost of erecting and twice renewing 27" smoke stack . . . ,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c03>
+			</c02>
+			<c02 level="subseries">
+			 <did>
+			 <unitid>Subseries C</unitid>
+			 <unittitle>Assett Inventories</unittitle>
+		 	</did>
+			 <arrangement>
+			 <head>Arrangement</head>
+			 <p>Arranged chronologically.</p>
+			 </arrangement>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Inventory, Manhattan State Hospital, East. September 30, 1903. Superintendent's Residence,</unittitle>
+					<unitdate>1903</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>List of articles donated to the M. S. H. East, by Dr. A.E. Macdonald . . . ,</unittitle>
+					<unitdate>1903</unitdate>
+					<physdesc>2 copies</physdesc>
+					</did>
+				</c03>	
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Inventory, Manhattan State Hospital, East. September 30, 1904. Superintendent's Residence,</unittitle>
+					<unitdate>1904</unitdate>
+					</did>
+		   	</c03>	
+		</c02>
+		<c02 level="subseries">
+			 <did>
+			 <unitid>Subseries D</unitid>
+			 <unittitle>Purchasing Records (Goods and Services)</unittitle>
+		 	</did>
+			 <arrangement>
+			 <head>Arrangement</head>
+			 <p>Arranged chronologically.</p>
+			 </arrangement>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Documents pertaining to the purchase of goods (including clothing, food, office, cleaning and medical supplies, kitchen equipment, furniture, fuel, etcetera) and services (including wages, salaries and other labor) for several institutions (some unidentified and undated),</unittitle>
+					<unitdate>1897-1906</unitdate>
+					</did>
+				</c03>	
+			</c02>
+		<c02 level="subseries">
+			 <did>
+			 <unitid>Subseries E</unitid>
+			 <unittitle>Other</unittitle>
+		 	</did>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Miscellaneous business records,</unittitle>
+					<unitdate>1890-1904</unitdate>
+					</did>
+				</c03>	
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Items pertaining to Manhattan State Hospital Exhibit at the Universal Exposition, St. Louis,</unittitle>
+					<unitdate>1904</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">3</container>
+					<unittitle>Miscellaneous business records,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">2</container>
+					<container label="Folder" type="Folder">4</container>
+					<unittitle>Miscellaneous business records,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">8</container>
+					<unittitle>Blueprint of Ward's Island Coffee Roasting Plant,</unittitle>
+					<unitdate>1897</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+					<container label="Box" type="Box">8</container>
+					<unittitle>Architectural drawing on sized linen depicting grounds and administrative building of unidentified institution,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c03>																								
+		</c02>					 
+		</c01>
+		<c01 level="series">
+		 <did>
+		 <unitid>Series II</unitid>
+		 <unittitle>Printed Material</unittitle>
+		 </did>
+		 <scopecontent>
+		 <head>Scope and Content</head>
+		 <p><emph render="bold">Printed Material</emph> includes (a) <emph render="bold">Annual Reports</emph> from the Department of Public Charities and Correction, the Manhattan State Hospital and the State Commissioner in Lunacy; (b) <emph render="bold">Journal Reprints</emph>, including among other items a number of articles authored by Dr. Macdonald that appeared in the American Journal of Insanity; (c) <emph render="bold">Minutes</emph> of meetings of the Commissioners of Public Charities and Correction, the Medical Society of the County of New York and the State Commission in Lunacy; and (d) <emph render="bold">Other</emph> publications including articles; lectures; reports; asylum rules,  regulations and directories.</p>
+		 </scopecontent>
+		 <c02 level="subseries">
+		 <did>
+		 <unitid>Subseries A</unitid>
+		 <unittitle>Annual Reports</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged in subseries by author.</p>
+		 </arrangement>
+			<c03 level="subseries">
+				<did>
+				<unitid>Subseries 1</unitid>
+				<unittitle>Department of Public Charities and Correction</unittitle>
+				</did>
+				<arrangement>
+				<head>Arrangement</head>
+				<p>Arranged chronologically</p>
+				</arrangement>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">1</container>
+					<unittitle>Annual report of the Medical Superintendent of the N.Y. City Asylum for Insane, Ward;s Island, N.Y., for the year 1875,</unittitle>
+					<unitdate>1875</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">2</container>
+					<unittitle>Annual report of the Resident Physician of the New York City Lunatic Asylum, Blackwell's Island, N.Y., for the year 1874,</unittitle>
+					<unitdate>1875</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">3</container>
+					<unittitle>Annual report of the Chief of Staff of the Charity, Fever, Epileptic, Penitentiary, Alms House and Work House Hospitals, and Hospital for Incurables, Blackwell's Island, N.Y. for the year endind December 31, 1875,</unittitle>
+					<unitdate>1876</unitdate>
+					</did>
+				</c04>
+					<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">4</container>
+					<unittitle>Annual report of the Medical Superintendent of the 1879 N.Y. City Asylum for Insane, Ward's Island, N.Y., for the year 1878,</unittitle>
+					<unitdate>1879</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">5</container>
+					<unittitle>Annual report of the Medical Superintendent of the N.Y. City Asylum for Insane, Ward's Island, N.Y., for the year 1880,</unittitle>
+					<unitdate>1880</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">6</container>
+					<unittitle>Annual report of the Medical Superintendent of the New York City Asylum for the Insane, for the year 1881,</unittitle>
+					<unitdate>1882</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">7</container>
+					<unittitle>same, for the year 1882,</unittitle>
+					<unitdate>1885</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">8</container>
+					<unittitle>same, for the year 1883,</unittitle>
+					<unitdate></unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">9</container>
+					<unittitle>Annual report of the General Superintendent of the New York City Asylums for the Insane, for the year 1886,</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">10</container>
+					<unittitle>Annual report of the New York City Asylums for the Insane, for the year 1887,</unittitle>
+					<unitdate>1891</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">11</container>
+					<unittitle>The New York City Asylums for the Insane. Extract from the Annual Report for 1890, "Overcrowding",</unittitle>
+					<unitdate>1891</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">12</container>
+					<unittitle>Annual report of the General Superintendent of the New York City Asylums for the Insane, for the year 1892,</unittitle>
+					<unitdate>1895</unitdate>
+					</did>
+				</c04>			
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">1</container>
+					<unittitle>Twenty-fourth annual report of the Commissioners of Public Charities and Correction, of the City of New York, for the year 1883,</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">1</container>
+					<unittitle>Twenty-fifth annual report of the Commissioner's of Public Charities and Correction, of the City of New York, for the year 1884,</unittitle>
+					<unitdate>[1887?]</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">2</container>
+					<unittitle>Twenty-seventh annual report of the Commissioners of Public Charities and Correction, of the City of New York, for the year 1886,</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">3</container>
+					<unittitle>Thirthieth annual report of the Commissioners of Public Charities and Correction of the City of New York, for the year 1889,</unittitle>
+					<unitdate>1892</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">4</container>
+					<unittitle>Annual report of the New York City Asylums for the Insane, for the year 1889,</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">5</container>
+					<unittitle>Annual report of the New York City Asylums for the Insane, for the year 1893,</unittitle>
+					<unitdate>1895</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Wrapper" type="Wrapper">6</container>
+					<unittitle>Annual report of the New York City Asylums for the Insane, for the year 1894,</unittitle>
+					<unitdate>1898</unitdate>
+					</did>
+				</c04>																																						
+			</c03>	
+			<c03 level="subseries">
+				<did>
+				<unitid>Subseries 2</unitid>
+				<unittitle>Manhattan State Hospital</unittitle>
+				</did>
+				<arrangement>
+				<head>Arrangement</head>
+				<p>Arranged chronologically</p>
+				</arrangement>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">1</container>
+					<unittitle>Second annual report of the Managers of the Manhattan State Hospital at New York to the State Commission in lunacy for the year ending September 30, 1897,</unittitle>
+					<unitdate>1898</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">2</container>
+					<unittitle>Third annual report of same for the year ending September 30, 1898,</unittitle>
+					<unitdate>1899</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">3</container>
+					<unittitle>Fourth annual report of same for the year ending September 30, 1899,</unittitle>
+					<unitdate>1900</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">4</container>
+					<unittitle>Fifth annual report of same for the year ending September 30, 1900,</unittitle>
+					<unitdate>1901</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">5</container>
+					<unittitle>Sixth annual report of same for the year ending September 30, 1902,</unittitle>
+					<unitdate>1902</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">6</container>
+					<unittitle>Eighth annual report of the Manhattan State Hospital at New Yorkto the State Commission in Lunacy for the year ending September 30, 1903,</unittitle>
+					<unitdate>1904</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">3</container>
+					<container label="Envelope" type="Envelope">7</container>
+					<unittitle>Ninth annual report of same for the year ending September 30, 1904,</unittitle>
+					<unitdate>1907</unitdate>
+					</did>
+				</c04>	
+			</c03>																							
+		</c02>
+		 <c02 level="subseries">
+		 <did>
+		 <unitid>Subseries B</unitid>
+		 <unittitle>Journal Reprints</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged chronologically.</p>
+		 </arrangement>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">1</container>
+				<persname>Macdonald, A.E.</persname>
+				<unittitle>The practical working of the new lunacy statutes [reprinted from the <title render="italic">Psychological and Medico-Legal Journal</title>],</unittitle>
+				<unitdate>1875</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">2</container>
+				<unittitle>Proceedings of the Association of Medical Superintendents of American Institutions for the Insane, at its twenty-ninth annual meeting, held at Auburn, N.Y., May 1875 [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1876</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">3</container>
+				<unittitle>Macdonald, A.E. General paresis [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1877</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">4</container>
+				<unittitle>Haviland, F.C. Tent life for the tuberculous insane [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1902</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">5</container>
+				<unittitle>New York Conference of Charities, November 20 to 23, 1901. Report of Committee on the Mentally Defective [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1902</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">6</container>
+				<unittitle>Macdonald, A.E. The Fourteenth International Medical Congress at Madrid. Report as delegate of the American Medico-Psychological Association [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1903</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">7</container>
+				<unittitle>Macdonald, A.E. Presidential address [reprinted from the <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">8</container>
+				<unittitle>Rowe, J.T.W. The prevention of insanity in its Incubation by the general practitioner [reprinted from the <title render="italic">New York Medical Journal and Philadelphia Medical Journal</title>],</unittitle>
+				<unitdate>1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">9</container>
+				<unittitle>Memorial Notice. Alexander E. Macdonald [reprinted from the <title render="italic">Proceedings of the American Medico-Psychological Association</title>],</unittitle>
+				<unitdate>1907</unitdate>
+				<physdesc>2 copies</physdesc>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">10</container>
+				<unittitle>Obituary. Alexander E. Macdonald [reprinted from <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1907</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">11</container>
+				<unittitle>Campbell, C.M. Untitled (memorial notice) with photo reproduction of Macdonald [reprinted from <title render="italic">American Journal of Insanity</title>],</unittitle>
+				<unitdate>1907</unitdate>
+				<physdesc>2 copies</physdesc>
+				</did>
+			</c03>	
+		</c02>	
+		<c02 level="subseries">
+		 <did>
+		 <unitid>Subseries C</unitid>
+		 <unittitle>Minutes</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged chronologically.</p>
+		 </arrangement>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">1</container>
+				<unittitle>Minutes. Meeting of the Commissioners of Public Charities and Correction,</unittitle>
+				<unitdate>1870</unitdate>
+				</did>
+			</c03>	
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">2</container>
+				<unittitle>Minutes. Meeting of the Commissioners of Public Charities and Correction,</unittitle>
+				<unitdate>1872</unitdate>
+				</did>
+			</c03>	
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">3</container>
+				<unittitle>Minutes of the Medical Society of the County of New York. Stated Meeting, May 27, 1878,</unittitle>
+				<unitdate>1878</unitdate>
+				</did>
+			</c03>	
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">3</container>
+				<unittitle>Minutes of the Medical Society of the County of New York. Special Meeting, Sept. 3, 1878,</unittitle>
+				<unitdate>1878</unitdate>
+				</did>
+			</c03>	
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">4</container>
+				<unittitle>Medico-Legal Society of New York. Meeting, April 10, 1889,</unittitle>
+				<unitdate>1889</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>State of New York - State Commission in Lunacy. State Hospitals -- December and January Estimates 1898-1899. Abstract of minutes and resolutions . . . ,</unittitle>
+				<unitdate>1898</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>State of New York - State Commission in Lunacy. State Hospitals - April and May Estimates - 1899. Abstract of minutes and resolutions,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>State of New York - State Commission in Lunacy. State Hospitals - June and July Estimates - 1899. Abstract of minutes and resolutions,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>State of New York - State Commission in Lunacy. State Hospitals - August and September Estimates - 1899. Abstract of minutes and resolutions,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>State of New York - State Commission in Lunacy. Notes of Conference . . . ,</unittitle>
+				<unitdate>1905</unitdate>
+				</did>
+			</c03>								
+		</c02>		
+		<c02 level="subseries">
+		 <did>
+		 <unitid>Subseries D</unitid>
+		 <unittitle>Other</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged chronologically.</p>
+		 </arrangement>
+		 	<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">1</container>
+				<unittitle>Macdonald, A.E. A lecture delivered before the pupils of the School for Nurses, Charity Hospital, N.Y., October 6, 1875, on the nursing of the insane,</unittitle>
+				<unitdate>1875</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">2</container>
+				<unittitle>The American Psychological Journal, Vol. 3, No. 3,</unittitle>
+				<unitdate>1876</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">3</container>
+				<unittitle>Fifth annual reunion dinner of the Alumni Medical Department of the University of the City of New York,</unittitle>
+				<unitdate>1876</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">4</container>
+				<unittitle>Report of the Committee on Public Health relative to lunatic asylums,</unittitle>
+				<unitdate>1879</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">5</container>
+				<unittitle>The answer of the New York Neurological Society to the Document known as the Report of the Committee on Public Health Relative to Lunatic Asylums, {Nr. 64, In Senate, May 22, 1879},</unittitle>
+				<unitdate>1880</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">6</container>
+				<unittitle>Report of the proceedings for establishing a Board of Commissioners in Lunacy, for the State of New York. Supervision of our Asylums for the Insane,</unittitle>
+				<unitdate>1880</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">7</container>
+				<unittitle>Report on the insane and lunatic asylums of New York City,</unittitle>
+				<unitdate>1883</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">8</container>
+				<unittitle>State of New York. Report of the Senate Committee on Finance relative to the value of the land and buildings,</unittitle>
+				<unitdate>1891</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">9</container>
+				<unittitle>State Charities Aid Assn. of N.Y. Report of the Special Committee on the Division of the Department of Public Charities and Correction of New York City [reprinted from the Twenty-Third Annual Report of the State Charities Aid Association to the State Board of Charities],</unittitle>
+				<unitdate>1895</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">10</container>
+				<unittitle>Protestant Chapels. Order of Services,</unittitle>
+				<unitdate>1897</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">11</container>
+				<unittitle>Protestant Chapels. Selection of hymns and psalms,</unittitle>
+				<unitdate>1897</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">12</container>
+				<unittitle>State of New York, State Commission in Lunacy, official directory of state hospitals and private institutions for the insane,</unittitle>
+				<unitdate>1903</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">13</container>
+				<unittitle>Macdonald, A.E. Tent treatment for tuberculous insane,</unittitle>
+				<unitdate>1904</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">14</container>
+				<unittitle>State of New York. No. 416, 906, 2426. Int. 400. IN Assembly, January 26, 1899. An Act making appropriations for the support of government,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">14</container>
+				<unittitle>State of New York. No. 1745, 2454. Int. 1327. In Assembly, April 24, 1899. An Act making appropriations for certain expenses of government . . . . ,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">14</container>
+				<unittitle>State of New York. No. 2455. Int. 1624. In Assembly, April 28, 1899. An Act making an appropriation of certain expenses of government . . . . ,</unittitle>
+				<unitdate>1899</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">14</container>
+				<unittitle>State of New York. No. 544. Int. 496. In Assembly, February 9, 1905. An Act to amend the insanity law . . . . ,</unittitle>
+				<unitdate>1905</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">15</container>
+				<unittitle>No. 82. State Charities Aid Association of New York. A consideration of the arguments contained in the memorandum filed by Governor Odell in approving the bill abolishing the Boards of Managers of the State Hospitals for the Insane,</unittitle>
+				<unitdate>1902</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">16</container>
+				<unittitle>Marro, A. Il trattamento degli alienate sotto tenda nel Manicomio governativo di Manhattan in America,</unittitle>
+				<unitdate>1906</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>New York City Asylum for the Insane, Ward's Island. Description of the plan, arrangement and capacity,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>Duties of attendats at the New York City Asylum for the Insane, Ward's Island,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>Extracts from the Rules and Regulations of the Manhattan State Hospital,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>By-laws of the Congress of American Physicians and Surgeons,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>Kinney, A.C. Tuberculosis: History of teh cure of a desperate case with immunity treatment,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Envelope" type="Envelope">17</container>
+				<unittitle>Memorandum Filed by Governor Odell in Approving Assembly Bill Number 438 . . . . ,</unittitle>
+				<unitdate>undated</unitdate>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>Collection of A.E. Macdonald's student course and hospital tickets,</unittitle>
+				<unitdate>various</unitdate>
+				<physdesc>12 items</physdesc>
+				</did>
+			</c03>
+			<c03 level="file">
+				<did>
+				<container label="Box" type="Box">3</container>
+				<container label="Folder" type="Folder">2</container>
+				<unittitle>Miscellaneous printed material including documents published by the State Commission in Lunacy, various printed ephemera, 1904 card-backed Calendar from Manhattan State Hospital, East, etc...,</unittitle>
+				<unitdate>various</unitdate>
+				</did>
+			</c03>																																																																										
+		</c02>												
+	</c01>
+	<c01 level="series">
+		 <did>
+		 <unitid>Series III</unitid>
+		 <unittitle>Professional Material</unittitle>
+		 </did>
+		 <scopecontent>
+		 <head>Scope and Content</head>
+		 <p><emph render="bold">Professional Material</emph> is comprised of three subseries:  (a) <emph render="bold">Legal Documents</emph> which include briefs, transcripts of testimony and arguments, court orders and correspondence in a number of cases including, most notably, the Guiteau, Rhinelander and Stokes Will cases as well as the Investigation into the Management and Affairs of the New York City Insane Asylum, Ward's Island; (b) <emph render="bold">Memberships and Medical Conferences</emph> which include documentation pertaining to Dr. Macdonald's membership in various professional medical organizations and a range of correspondence, programs, newspaper clippings and ephemera related to his attendance of various medical conferences, including the 12th International Medical Congress in Moscow (1897), the British Medical Association Session in Edinburgh (1898), the 14th International Medical Congress in Madrid, Spain (1903) and the 15th International Medical Congress in Lisbon, Portugal (1906) ; and (c) <emph render="bold">Other</emph> material pertaining to Dr. Macdonald's professional endeavors including a collection of course tickets and curriculum announcements from the University of the City of New York.</p>
+		 </scopecontent>
+		 <c02 level="subseries">
+		 <did>
+		 <unitid>Subseries A</unitid>
+		 <unittitle>Legal Documents</unittitle>
+		 </did>
+		 <arrangement>
+		 <head>Arrangement</head>
+		 <p>Arranged in subsubseries by case name.</p>
+		 </arrangement>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 1</unitid>
+					<unittitle>Charles Guiteau Trial</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Ticket to trial,</unittitle>
+					<unitdate>1881</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Signature of Charles Guiteau,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 2</unitid>
+					<unittitle>In the matter of the application of Mary W.B. Mariotte for sale real estate of infants</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Affidavit and Order for Discharge of Special Guardian (petitioner),</unittitle>
+					<unitdate>1895</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence from M. Winslow (counsel for petitioner),</unittitle>
+					<unitdate>1894-1895</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence from Barrett [illegible?],</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 3</unitid>
+					<unittitle>In the matter of the investigation of the New York City Asylums</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to A.E. Macdonald from G.F. Britton,</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to H. Porter from A.E. Macdonald,</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to A.E. Macdonald from A. Phillips,</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to H. Porter from unidentified (incomplete),</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to Dent from "A Christian Endeavorer",</unittitle>
+					<unitdate>1894</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Correspondence to A.E. Macdonald from illegible,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Transcript of testimony before State Commissioners in Lunacy,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Transcript of extracts of testimony of Commissioner Henry H. Porter,,</unittitle>
+					<unitdate>1895</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 4</unitid>
+					<unittitle>In the matter of the inquiry into the sanity of William C. Rhinelander</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Closing Argument of John M. Bowers,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Closing Argument of Hon. George M. Curtis,</unittitle>
+					<unitdate>1884</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 5</unitid>
+					<unittitle>The Stokes Will Case</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Argument for Contestant by Theron G. Strong,</unittitle>
+					<unitdate>1884</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Selections from the Argument of Hon. William M. Evarts, on behalf of the Proponents and Brief upon the testimony relating to William E. Dodge Stokes,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 6</unitid>
+					<unittitle>Investigation into the Management and Affairs of the New York City Insane Asylum, on Ward's Island, by the Standing Committee on the Insane of the State Board of Charities</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Index,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Testimony June 29 (pp. 1-175),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>June 30 (pp. 176-284),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>July 1 (pp. 286-458),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>July 6 (pp. 459-687),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>July 7 (pp. 688-790),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>July 8 (pp. 791-1041),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>July 9 (pp. 1042-1225),</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 7</unitid>
+					<unittitle>Macdonald v. Mayor, Alderman and Commonality of the City of New York</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Plantiff's Points,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Opinion of the General Term Supreme Court,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 8</unitid>
+					<unittitle>In the matter of the application for the committment of Kate McEligot, an Alleged insane person</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Supreme Court order to show cause,</unittitle>
+					<unitdate>1897</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Exhibits A - G,</unittitle>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Patient History</unittitle>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Deposition statement of Alexander E. Macdonald,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 9</unitid>
+					<unittitle>In the matter of the investigation by the Board of Managers of the Manhattan State Hospital of the Steward's and other departments of said hospitals</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Testimony of Mr. Kimball,</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>5 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Testimony of General Superintendent (April 16),</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>2 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Testimony of Dr. Macdonald (April 18),</unittitle>
+					<unitdate>1900</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">3</container>
+					<unittitle>Testimony of Dr. Dent; miscellaneous related,</unittitle>
+					<unitdate>1900</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">4</container>
+					<unittitle>Testimony of Dr. Smith,</unittitle>
+					<unitdate>[1900?]</unitdate>
+					<physdesc>2 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">5</container>
+					<unittitle>Testimony of Dr. John T. W. Rowe,</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>4 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">6</container>
+					<unittitle>Testimony of Thomas O'Keefe,</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>4 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">7</container>
+					<unittitle>Testimony of Michael F. Bradley,</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>4 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">8</container>
+					<unittitle>Testimony of John L. Widdler, Jr.,</unittitle>
+					<unitdate>1900</unitdate>
+					<physdesc>3 copies</physdesc>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">9</container>
+					<unittitle>Testimony of Mr. Murray [Assistant Steward?],</unittitle>
+					<unitdate>[1900?]</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 10</unitid>
+					<unittitle>Miscellaneous Proceedings</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Incomplete transcript of testimony in unidentified case: pp. 161-217; 275-324; 275-324 (duplicate); 323-324 (duplicate); 891-906; 1463-1515; 1479-1515 (duplicate); 1737-1778,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Board of Estimate and Appointment, New York City. Community and Documents from the Commissioners of Public Charities and Correction, Relating to the Future Provision for the Insane,</unittitle>
+					<unitdate>1882</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Reply of the Commissioners of Public Charities and Correction to the Charges Made by the Commissioners of Accounts with the Letter and Findings of His Honor, Thos. F. Gilroy, Mayor,</unittitle>
+					<unitdate>1893</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Incomplete transcript of testimony in unidentified case: pp. 81-126,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Sworn statement of Alexander E. Macdonald re: mental and physical condition of Patrick Trenor,</unittitle>
+					<unitdate>1887</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Notice of Execution of Commission. In the Matter of the Application for the Appointment of a Committee of the Person and Property of Joseph G. Creamer, an alleged insane person,</unittitle>
+					<unitdate>1897</unitdate>
+					</did>
+				</c04>
+			</c03>
+			<c03 level="subseries">
+					<did>
+					<unitid>Subsubseries 11</unitid>
+					<unittitle>Expert testimony of A.E. Macdonald in unidentified case</unittitle>
+					</did>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>"MSS" (direct examination by Mr. Peckham and cross examination by Mr. Brown,</unittitle>
+					<unitdate>1876</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>"Manuscript" (cross examination -- continued),</unittitle>
+					<unitdate>1876</unitdate>
+					</did>
+				</c04>
+				<c04 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>"Manuscript No. 2" (cross examination resumed by Mr. Brown and redirected by Mr. Peckham),</unittitle>
+					<unitdate>1876</unitdate>
+					</did>
+				</c04>
+			</c03>
+		</c02>
+		 <c02 level="subseries">
+		 <did>
+		 <unitid>Subseries B</unitid>
+		 <unittitle>Memberships and Medical Conferences</unittitle>
+		 </did>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>12th International Medical Congress, Moscow: various materials,</unittitle>
+					<unitdate>1897</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>British Medical Association Session, Edinburgh: various materials,</unittitle>
+					<unitdate>1898</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>14th International Medical Congress, Madrid: Related correspondence, newspapers,</unittitle>
+					<unitdate>1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">3</container>
+					<unittitle>14th International Medical Congress, Madrid: Mementos, receipts, writings, printed pamphlets,</unittitle>
+					<unitdate>1903</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">4</container>
+					<unittitle>15th International Medical Congress, Lisbon: Related correspondence, newspaper articles, printed pamphlets, etc.,</unittitle>
+					<unitdate>1906</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">5</container>
+					<unittitle>Miscellaneous membership materials,</unittitle>
+					<unitdate>various</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">6</container>
+					<unittitle>Membership certificates</unittitle>
+					<unitdate>various</unitdate>
+					</did>
+						<c04 level="file">
+							<did>
+							<unittitle>Medical Society of the City and County of New York,</unittitle>
+							<unitdate>1878</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+							<unittitle>New York Medico Legal Society,</unittitle>
+							<unitdate>1882</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+							<unittitle>The New York Academy of Medicine,</unittitle>
+							<unitdate>1885</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+							<unittitle>Boston Gynaecological Society,</unittitle>
+							<unitdate>1885</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+							<unittitle>Medico-Psychological Association,</unittitle>
+							<unitdate>1898</unitdate>
+							</did>
+						</c04>
+						<c04 level="file">
+							<did>
+							<unittitle>Medical Association of the Greater City of New York,</unittitle>
+							<unitdate>1902</unitdate>
+							</did>
+						</c04>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">6</container>
+					<unittitle>A.E. Macdonald's New York State physician's license</unittitle>
+					<unitdate></unitdate>
+					</did>
+			</c03>
+		</c02>
+		<c02 level="subseries">
+		 <did>
+		 <unitid>Subseries C</unitid>
+		 <unittitle>Other</unittitle>
+		 </did>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>University of the City of New York. Medical Department. Spring Session,</unittitle>
+					<unitdate>1879</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>University of the City of New York. Medical Deparment. Spring Session,</unittitle>
+					<unitdate>1880</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>University of the City of New York. Medical Department. Spring Session,</unittitle>
+					<unitdate>1881</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>University of the City of New York. Medical Department. Spring Session,</unittitle>
+					<unitdate>1883</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Miscellaneous other course and lecture bulletins (photocopies),</unittitle>
+					<unitdate>1875-87</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">8</container>
+					<container label="Bag" type="Bag">1</container>
+					<unittitle>Vial of morphine sulphate,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+			<c03 level="file">
+					<did>
+					<container label="Box" type="Box">4</container>
+					<container label="Bag" type="Bag">1</container>
+					<unittitle>Vial of ergot aseptic,</unittitle>
+					<unitdate>undated</unitdate>
+					</did>
+			</c03>
+		</c02>
+	</c01>
+	<c01 level="series">
+		 <did>
+		 <unitid>Series IV</unitid>
+		 <unittitle>Biographical and Personal Material</unittitle>
+		 </did>
+		 <scopecontent>
+		 <head>Scope and Content</head>
+		 <p><emph render="bold">Biographical and Personal Material</emph> contains material relating to Dr. Macdonald's personal life, including correspondence with family and friends; financial information; marriage and citizenship papers; diplomas; membership information for social clubs to which Dr. Macdonald belonged and a host of ephemera, including menus, invitations, and business cards.</p>
+		 </scopecontent>
+				<c02 level="file">
+					<did>
+					<container label="Box" type="Box">8</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Various certificates including:</unittitle>
+					</did>
+						<c03 level="file">
+							<did>
+							<unittitle>Second class certificate, School of Military Instruction, Canada,</unittitle>
+							<unitdate>1864</unitdate>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+							<unittitle>First class certificate, School of Military Instruction, Canada,</unittitle>
+							<unitdate>1865</unitdate>
+							</did>
+						</c03>	
+						<c03 level="file">
+							<did>
+							<unittitle>US citizenship certificate,</unittitle>
+							<unitdate>1871</unitdate>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+							<unittitle>US cititzenship certificate, duplicate,</unittitle>
+							<unitdate>1871</unitdate>
+							<physdesc>oversized</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+							<unittitle>LLD degree from the University of the City of New York,</unittitle>
+							<unitdate>1881</unitdate>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+							<unittitle>Certificate of clerkship for admission to practice law in New York State,</unittitle>
+							<unitdate>1881</unitdate>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+							<unittitle>Marriage certificate, Portland, Maine,</unittitle>
+							<unitdate>1883</unitdate>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="file">
+						<did>
+						<container label="Box" type="Box">4</container>
+						<container label="Folder" type="Folder">2</container>
+						<unittitle>Correspondence,</unittitle>
+						<unitdate>various</unitdate>
+						<scopecontent><p>Including letters to A.E. Macdonald from his children and to Mrs. Macdonald from various individuals following the death of A.E. Macdonald.</p></scopecontent>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+						<container label="Box" type="Box">4</container>
+						<container label="Folder" type="Folder">3</container>
+						<unittitle>Memberships,</unittitle>
+						<unitdate>various</unitdate>
+						<scopecontent><p>Various materials related to A.E. Macdonald's membership in social clubs including the Lotus Club, the Union of the Titans, the Masons, and the Alumni Association of the Medical Department of the University of the City of New York.</p></scopecontent>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+						<container label="Box" type="Box">4</container>
+						<container label="Folder" type="Folder">4</container>
+						<unittitle>Other</unittitle>
+						<scopecontent><p>Printed, typescript, and manuscript ephemera, including menus, mementos, business cards, bank statements, personal account records, and poetry.</p></scopecontent>
+						</did>
+				</c02>
+	</c01>
+	<c01 level="series">
+		 <did>
+		 <unitid>Series V</unitid>
+		 <unittitle>Manuscripts</unittitle>
+		 </did>
+		 <scopecontent>
+		 <head>Scope and Content</head>
+		 <p>The <emph render="bold">Manuscripts</emph> series contains (a) Dr. Macdonald's <emph render="bold">Bound Diaries and Writings</emph>, which are, for the most part, daily diaries as well as some student notes and notes on various medical subjects, case records, and patient property logs; (b) his <emph render="bold">Writings</emph>, which include both handwritten manuscripts and typescripts ofpapers, speeches, lectures, and presentations on a host of medical topics including rape, identity, malpractice, medical jurisprudence, homicide, and pregnancy, to name a few; and (c) <emph render="bold">Miscellaneous Notes</emph> which include a sizable number of lists, calculations and other scraps (many of which are not legible).</p>
+		 </scopecontent>
+				 <c02 level="subseries">
+					<did>
+					<unitid>Subseries A</unitid>
+					<unittitle>Bound diaries and notebooks</unittitle>
+					</did>
+						<c03 level="subseries">
+						<did>
+						<unitid>Subsubseries 1</unitid>
+						<unittitle>A.E. Macdonald Notebooks (leather bound)</unittitle>
+						</did>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">1</container>
+								<unittitle>Vol. I [Daily diary],</unittitle>
+								<unitdate>June 1-Dec. 9, 1873</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">2</container>
+								<unittitle>Vol. II [The Life of A.E. Macdonald; Daily diary],</unittitle>
+								<unitdate>Dec. 10-June 19. 1874</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">3</container>
+								<unittitle>Vol. III [Daily diary],</unittitle>
+								<unitdate>June 20-Dec. 31, 1874</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">4</container>
+								<unittitle>Vol. IV [Recollections of a Busy Life; Daily diary]; flip side [Chief of Staff's Absence Book],</unittitle>
+								<unitdate>Jan. 1-May 31, 1875</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">5</container>
+								<unittitle>Vol. V [Lives of the Saints; Daily diary],</unittitle>
+								<unitdate>June 1-Dec. 15, 1875</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">6</container>
+								<unittitle>Vol. VI [Daily diary],</unittitle>
+								<unitdate>Dec. 16-June 24, 1876</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">7</container>
+								<unittitle>Vol. VII [Daily diary],</unittitle>
+								<unitdate>June 25-Dec. 31, 1876</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">8</container>
+								<unittitle>Vol. VIII [Daily diary],</unittitle>
+								<unitdate>Jan. 1-Apr. 22, 1877</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">9</container>
+								<unittitle>Vol. IX [Daily diary],</unittitle>
+								<unitdate>Apr. 23-Aug. 12, 1877</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">10</container>
+								<unittitle>Vol. X [Daily diary],</unittitle>
+								<unitdate>Aug. 13-Nov. 20, 1877</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">11</container>
+								<unittitle>Vol. XI [Daily diary],</unittitle>
+								<unitdate>Dec. 1-June 8, 1878</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">12</container>
+								<unittitle>Vol. XII [Daily diary],</unittitle>
+								<unitdate>June 9-Dec. 19, 1878</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">13</container>
+								<unittitle>Vol. XIII [Daily diary],</unittitle>
+								<unitdate>Dec. 20-June 30, 1878</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">14</container>
+								<unittitle>Vol. XIV [Daily diary],</unittitle>
+								<unitdate>July 1, 1879-Jan. 8, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">15</container>
+								<unittitle>Vol. XV [Daily diary],</unittitle>
+								<unitdate>Jan. 9-July 18, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">16</container>
+								<unittitle>Vol. XVI [Daily diary],</unittitle>
+								<unitdate>July 19-Jan. 30, 1881</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">17</container>
+								<unittitle>Vol. XVII [Daily diary],</unittitle>
+								<unitdate>Feb. 1-Nov. 16, 1881</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">18</container>
+								<unittitle>Vol. XVIII [Daily diary],</unittitle>
+								<unitdate>Nov. 17-Sept. 4, 1882</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">19</container>
+								<unittitle>Vol. XIX [Daily diary],</unittitle>
+								<unitdate>Sept. 20-May 31, 1883</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">20</container>
+								<unittitle>Vol. XX [Daily diary],</unittitle>
+								<unitdate>June 1-Feb. 29, 1884</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">21</container>
+								<unittitle>Vol. XXI [Daily diary],</unittitle>
+								<unitdate>March 1-Nov. 20, 1884</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">22</container>
+								<unittitle>Vol. XXII [Daily diary],</unittitle>
+								<unitdate>Dec. 1-Aug. 31, 1885</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">23</container>
+								<unittitle>[Daily diary],</unittitle>
+								<unitdate>April 7, 1893-Dec. 31, 1895</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">24</container>
+								<unittitle>[Daily diary],</unittitle>
+								<unitdate>Jan. 1, 1896-Dec. 31, 1899</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">25</container>
+								<unittitle>[Notes on Physiology],</unittitle>
+								<unitdate>July 28, 1868</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">26</container>
+								<unittitle>[Notebook No. 2, Practice of Medicine],</unittitle>
+								<unitdate>Nov. 15, 1869</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">27</container>
+								<unittitle>[Notebook No. 3, notes on various medical topics including "Muscles of Hand"; "Circulation"; "Fractures"; etc.],</unittitle>
+								<unitdate>Dec. 20, 1869</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">28</container>
+								<unittitle>Vol. I [Ward's Island],</unittitle>
+								<unitdate>Oct. 6, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">29</container>
+								<unittitle>Vol. II [miscellaneous notes],</unittitle>
+								<unitdate>Oct. 19, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">30</container>
+								<unittitle>Vol. III [miscellaneous notes],</unittitle>
+								<unitdate>Oct. 20, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">31</container>
+								<unittitle>Vol. IV [miscellaneous notes],</unittitle>
+								<unitdate>Nov. 7, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">32</container>
+								<unittitle>Vol. V [miscellaneous notes],</unittitle>
+								<unitdate>Nov. 30, 1880</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">33</container>
+								<unittitle>Vol. VI [Univ. of New York, Law Department; Part I, Chap. I],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">34</container>
+								<unittitle>Vol. VIII [Univ. of New York, Law Department; Exam],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">35</container>
+								<unittitle>Vol. IX [Univ. of New York, Law Department; Part II, Chap. IV],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">36</container>
+								<unittitle>Vol. X [Chap. V],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">37</container>
+								<unittitle>[Valuables of patients],</unittitle>
+								<unitdate>1883-1887</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">38</container>
+								<unittitle>[Notes and Queries],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">39</container>
+								<unittitle>[Notes on Lead Posioning],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">40</container>
+								<unittitle>[Wm. F. Turner, Patient Notes],</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">41</container>
+								<unittitle>[Diary],</unittitle>
+								<unitdate>Jan. 1, 1900-July 10, 1906</unitdate>
+								</did>
+							</c04>
+							<c04 level="file">
+								<did>
+								<container label="Box" type="Box">5</container>
+								<container label="Wrapper" type="Wrapper">42</container>
+								<unittitle>Untitled,</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c04>
+						</c03>
+						<c03 level="subseries">
+							<did>
+							<unitid>Subsubseries 2</unitid>
+							<unittitle>Paper Cover Flip Notepads</unittitle>
+							</did>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Daily Notes],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[St. Louis],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Commission [?]],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Commission [?] Visit],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Untitled],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Untitled],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">2</container>
+									<unittitle>[Daily Notes],</unittitle>
+									<unitdate>1903</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">2</container>
+									<unittitle>[Untitled],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">2</container>
+									<unittitle>[Untitled],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+						</c03>
+						<c03 level="subseries">
+							<did>
+							<unitid>Subsubseries 3</unitid>
+							<unittitle>Half Leather/Marbled Paper Bound Ledgers</unittitle>
+							</did>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Patients' property],</unittitle>
+									<unitdate>1876-1883</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">2</container>
+									<unittitle>[Notes on mania],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Notes on dementia],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+								<c04 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Wrapper" type="Wrapper">1</container>
+									<unittitle>[Notes on abortion],</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c04>
+							</c03>
+							<c03 level="subseries">
+								<did>
+								<unitid>Subsubseries 4</unitid>
+								<unittitle>Miscellaneous Notebooks</unittitle>
+								</did>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Envelope" type="Envelope">1</container>
+										<unittitle>[Miniature leather notebook],</unittitle>
+										<unitdate>undated</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Envelope" type="Envelope">2</container>
+										<unittitle>[Address Book],</unittitle>
+										<unitdate>undated</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Envelope" type="Envelope">3</container>
+										<unittitle>[Cloth diary: Exercises; letters sent/received],</unittitle>
+										<unitdate>1863</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Envelope" type="Envelope">4</container>
+										<unittitle>[Cash Book],</unittitle>
+										<unitdate>1869-1870</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Envelope" type="Envelope">5</container>
+										<unittitle>[Patients' property],</unittitle>
+										<unitdate>1883-1887</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Wrapper" type="Wrapper">1</container>
+										<unittitle>[Daily diary; expenses; class time table; rifle shooting scores; letters received and posted],</unittitle>
+										<unitdate>1863-64</unitdate>
+										</did>
+									</c04>
+									<c04 level="file">
+										<did>
+										<container label="Box" type="Box">7</container>
+										<container label="Wrapper" type="Wrapper">2</container>
+										<unittitle>[A.E. Macdonald, Fourth Class, Model Grammar School],</unittitle>
+										<unitdate>undated</unitdate>
+										</did>
+									</c04>
+							</c03>
+						</c02>
+						<c02 level="subseries">
+							<did>
+							<unitid>Subseries B</unitid>
+							<unittitle>Writings</unittitle>
+							</did>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">1</container>
+									<unittitle>"Medical Jurisprudence, Lecture First - Univ. Med. Coll,"</unittitle>
+									<unitdate>1875</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">2</container>
+									<unittitle>G. A. Blumer, The Medical and Material Aspects of Industrial Employment for the Insane,</unittitle>
+									<unitdate>1897</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">3</container>
+									<unittitle>"Announcements," with printed program "Manhattan State Hospital, East (Ward's Island), Programme of Sports by Patients and Employees, Independence Day, July 4, 1904, on the Grounds of the Hospital,"</unittitle>
+									<unitdate>[1904?]</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>A.E. Macdonald, "Tent treatment for the tuberculous insane,"</unittitle>
+									<unitdate>undated</unitdate>
+									<physdesc>3 copies</physdesc>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>A.E. Macdonald, "Tent life for the tuberculous and other classes of insane,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Notes on camp treatment for tuberculosis insane,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Training school for nurses,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Acknowledgments,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Medical Staff,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Overcrowding,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"Amusements,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"The punishment of the insane for criminal acts,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>J.W. Putnam, "Paranoia as seen in criminals,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>Discussion, Dr. Punton's paper,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">4</container>
+									<unittitle>"X rays in anthropometrical signalment,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">5</container>
+									<unittitle>"For Better For Worse in Egypt,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">6</container>
+									<unittitle>"Rape," pp. 1-51,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">7</container>
+									<unittitle>"Identity," pp. 1-27,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">8</container>
+									<unittitle>"Malpractice," pp. 1-16,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">9</container>
+									<unittitle>"Homicide" (incomplete), pp. 1-8, 10-50, A, C-I,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">10</container>
+									<unittitle>"Signs of Pregnancy," pp. 1-23,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">11</container>
+									<unittitle>"Ward,"</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">12</container>
+									<unittitle>"Signs of Delivery," pp. 1-6,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">13</container>
+									<unittitle>"Duration of Pregnancy," pp. 1-16,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">14</container>
+									<unittitle>"Responsibility" (incomplete), pp. 1-15,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">15</container>
+									<unittitle>Untitled, pp. 1-46,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">16</container>
+									<unittitle>Untitled, pp. 1-6, with two pages of correspondence (incomplete),</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">17</container>
+									<unittitle>Untitled, p. 1-13,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">18</container>
+									<unittitle>Untitled, pp. 1-41,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">19</container>
+									<unittitle>Untitled, pp. 1-63,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">20</container>
+									<unittitle>Untitled (incomplete), pp. 1-55,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">21</container>
+									<unittitle>Untitled, pp. 1-30,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">22</container>
+									<unittitle>Untitled, pp. 1-47,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">23</container>
+									<unittitle>Untitled (incomplete), pp. 2-25,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">24</container>
+									<unittitle>Untitled (incomplete), pp. 1-6, 9-27,</unittitle>
+									<unitdate>undated</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">25</container>
+									<unittitle>Miscellaneous manuscripts</unittitle>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">26</container>
+									<unittitle>Miscellaneous manuscripts</unittitle>
+									</did>
+								</c03>
+						</c02>
+						<c02 level="subseries">
+							<did>
+							<unitid>Subseries C</unitid>
+							<unittitle>Miscellaneous Notes</unittitle>
+							</did>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Folder" type="Folder">1</container>
+									<unittitle>Handwritten notes, lists, calculations, receipts, ticket stubs, ink drawing,</unittitle>
+									<unitdate>various</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Envelope" type="Envelope">1</container>
+									<unittitle>Two envelopes of handwritten notes, lists, ticket stubs, and related items,</unittitle>
+									<unitdate>various</unitdate>
+									</did>
+								</c03>
+								<c03 level="file">
+									<did>
+									<container label="Box" type="Box">6</container>
+									<container label="Envelope" type="Envelope">2</container>
+									<unittitle>Handwritten notes, lists, calculations, receipts,</unittitle>
+									<unitdate>various</unitdate>
+									</did>
+								</c03>
+						</c02>
+				</c01>
+				<c01 level="series">
+					<did>
+					 <unitid>Series VI</unitid>
+					 <unittitle>Newspaper Clippings</unittitle>
+					 </did>
+					 <scopecontent>
+					 <head>Scope and Content</head>
+					 <p><emph render="bold">Newspaper Clippings</emph> contains clippings from 1865 to 1906 on a host of issues ranging from the treatment of the insane; management of the New York institutions and investigations thereof; prominent legal cases relating to Dr. Macdonald, the asylums and/or patients; lunacy laws; as well as reports and reviews of Dr. Macdonald's speaking engagements at various dinners, receptions, and banquets.</p>
+					 </scopecontent>
+					 <arrangement>
+					 <p>Arranged chronologically.</p>
+					 </arrangement>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">1</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1865</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">2</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1872</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">3</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1873</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">4</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1874</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">5</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1875</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">6</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1876</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">7</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1877</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">8</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1878</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">9</container>
+								<unittitle>Newspaper Clippings, pt. 1,</unittitle>
+								<unitdate>1879</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">10</container>
+								<unittitle>Newspaper Clippings, pt. 2,</unittitle>
+								<unitdate>1879</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">11</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1880</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">12</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1881</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">13</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1882</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">14</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1883</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">15</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1884</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">16</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1885</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">17</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1886</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">18</container>
+								<unittitle>Newspaper Clippings, pt. 1,</unittitle>
+								<unitdate>1887</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">19</container>
+								<unittitle>Newspaper Clippings, pt. 2,</unittitle>
+								<unitdate>1887</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">20</container>
+								<unittitle>Newspaper Clippings, pt. 1,</unittitle>
+								<unitdate>1888</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">21</container>
+								<unittitle>Newspaper Clippings, pt. 2,</unittitle>
+								<unitdate>1888</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">22</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1889</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">23</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1890</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">24</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1891</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">25</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1892</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">26</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1893</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">27</container>
+								<unittitle>Newspaper Clippings, pt. 1,</unittitle>
+								<unitdate>1894</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">28</container>
+								<unittitle>Newspaper Clippings, pt. 2,</unittitle>
+								<unitdate>1894</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">29</container>
+								<unittitle>Newspaper Clippings, pt. 3,</unittitle>
+								<unitdate>1894</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">30</container>
+								<unittitle>Newspaper Clippings, pt. 1,</unittitle>
+								<unitdate>1895</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">31</container>
+								<unittitle>Newspaper Clippings, pt. 2,</unittitle>
+								<unitdate>1895</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">32</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1896</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">33</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1897</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">34</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1898</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">35</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1899</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">36</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1900</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">37</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1901</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">38</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1902</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">39</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1903</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">40</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1904</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">41</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1905</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">42</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>1906</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">2</container>
+								<container label="Folder" type="Folder">43</container>
+								<unittitle>Newspaper Clippings,</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c02>
+			</c01>
+			<c01 level="series">
+					<did>
+					 <unitid>Series VII</unitid>
+					 <unittitle>Photographs</unittitle>
+					 </did>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">8</container>
+								<container label="Folder" type="Folder">1</container>
+								<unittitle>16 card-mounted photographs (platinum prints?) and reproductions of the Tuberculosis tent city at the Manhattan State Hospital, East,</unittitle>
+								<unitdate>undated</unitdate>
+								</did>
+							</c02>
+							<c02 level="file"> 
+								<did>
+								<container label="Box" type="Box">8</container>
+								<container label="Folder" type="Folder">2</container>
+								<unittitle>Original photographs (various processes) of subjects including Dr. Macdonald's son, Charles; the Medical Superintendents of American Insane Institutions, 1878; and other unidentified places as well as multiple reproductions of an image of Dr. Macdonald,</unittitle>
+								<unitdate>various</unitdate>
+								</did>
+							</c02>
+				</c01>
+	</dsc>	
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Malloch Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Provenance</head> 
+		<p>Archive purchased by NYAM from Peter Keyes/Oxbow Books in 2005, with additional gifts of related items from same.</p>
+	 </acqinfo> 
+  </archdesc>
+</ead>

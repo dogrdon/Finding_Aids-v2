@@ -1,0 +1,63 @@
+/**** 
+***** NYAM STYLES 11NOV2013 
+****/
+
+h1,
+h2,
+h3 {
+  color: #82041C; /* NYAM Maroon */
+}
+
+img.logo {
+
+  float: left;
+  margin-right: 50px;
+  
+}
+
+div.page-header h1 {
+  float: right;
+}
+
+a {
+  color: #3771A8;
+}
+
+
+.bs-sidebar .nav > .active > a, .bs-sidebar .nav > .active:hover > a, .bs-sidebar .nav > .active:focus > a {
+  font-weight: bold;
+  /*color: #3771A8;
+  background-color: transparent;*/
+  color: #FFF;
+  text-shadow: none;
+  background-color: #3771A8;
+  border-right: 1px solid #3771A8;
+}
+
+.page-header.overview {
+  background-color: #f8f8f8;
+  border: #e7e7e7 1px solid;
+  padding: 8px;
+}
+
+.author{
+  float:right;
+}
+
+
+/* dont display the mobile toggle button, dont currently have options for it  */
+.navbar-default .navbar-toggle {  
+  display: none;
+}
+
+/* Provide a scrollbox for the subsubsections (c02) in the TOC that are very looong  */
+li.active ul li.active ul.nav{
+  
+  max-height: 250px;
+  overflow: auto;
+}
+
+/* padding for secondary container elements */
+.indenter {
+  padding-left: 8px;
+}

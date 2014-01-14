@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARS-0002</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Schilder Society Records</titleproper> 
+		  <subtitle>1935-1981</subtitle> 
+		 <author>Collection processed and described by Dorothy Truman</author>
+
+		</titlestmt> 
+		<publicationstmt>
+            <date>2008</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20090623">June 23, 2009.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">Schilder Society</corpname> 
+		</origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+
+		<unittitle encodinganalog="245">Schilder Society Records</unittitle> 
+		<unitdate type="inclusive">1935-1981</unitdate> 
+		<physdesc> <extent encodinganalog="300">3 linear feet</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Schilder Society Records. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>The Society for Psychotherapy and Psychopathology was proposed and organized by Paul Schilder in 1935 to provide a forum for the interchange of ideas among the "divergent viewpoints" on the treatment of mental illness.</p>
+
+<p>Paul Schilder (1886-1940) was a prominent psychoanalytic psychiatrist who had worked with Freud in Vienna and was associated for many years with New York's Bellevue Hospital.  Schilder was especially interested in the integration of biological and psycho-dynamic approaches to the treatment and understanding of mental disease.  His approach placed him at the time on the margins of the New York psychoanalytic community and he was excluded from the prestigious New York Psychoanalytic Institute and Society.</p>
+<p>After Schilder's sudden death in a traffic accident in 1940 the Society continued under the leadership of several of his close associates and Schilder's wife, Dr. Lauretta Bender. It dedicated its annual January meeting to consideration of Paul Schilder's work. Other meetings were not limited to Schilder's views. In 1947, after a poll of the membership, the Society changed its name to the Schilder Society.</p>
+<p>Membership was originally set at 75, but later changed to 60. New members could only be elected on the resignation or death of a member.  The by-laws required that members failing to attend a prescribed number of meetings each year would have their memberships revoked.</p>
+<p>In the 1950s low attendance at meetings was already a concern for the society's officers.  By the 1970s membership had shrunk and attendance at meetings had dwindled.  In 1980 the 15 members were polled to see if the society should disband. Apparently a few further meetings were held, but the society soon ceased to exist.</p>  
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+ <p>This collection largely reflects the activities of the society after Paul Schilder's death in 1940.  There is little from the period 1935-1943 except a few pieces of correspondence, a couple of programs, and some membership lists.  The strongest series in the collection are the minutes, the membership, and the programs.  The minutes, which only begin in 1943 and end in 1956, vary in their content.  In 1945 the minutes begin to include summaries of the talks given and the points made in discussion. These reports remained quite extensive until the mid 1950s.  The membership records, in various formats, cover the largest period of time.  The society itself kept a record of the subjects of the talks presented and this information is available in the various series under programs.  In addition to the record of the content of these talks to be found in the minutes, the various correspondence series sometimes contain letters that discuss or comment on some of the talks.  The Society did not make a practice of keeping a transcript of the talks.</p> 
+	 </scopecontent> 
+	<arrangement>
+		<head>Arrangement of Collection</head>
+
+		<p>These records were found in several document boxes and 3 overstuffed black three-ring binders. The original arrangement of correspondence found in the boxes has been maintained.  The contents of the binders were in no consistent order and included minutes, financial reports, membership, and attendance records.   These were separated into series. A note is on each folder containing records taken from these notebooks.  If necessary the notebooks could be reassembled.</p>
+		<p>Organized into eight series:
+         <list type="simple">
+            <item>Organization</item>
+            <item>Membership</item>
+            <item>Executive Council</item>
+				<item>Secretary's Working Files</item>
+
+				<item>Programs</item>
+				<item>Financial</item>
+				<item>Photographs</item>
+				<item>Reference</item>
+          </list>
+       </p>
+	 </arrangement>	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Psychiatry -- New York (State) -- New York.</subject> 
+			<subject encodinganalog="650" source="lcsh">Psychiatry -- Societies, etc.</subject>
+
+			<subject encodinganalog="650" source="lcsh">Psychotherapy.</subject>
+			<subject encodinganalog="650" source="lcsh">Psychology, Pathological.</subject>				 
+			<persname encodinganalog="700" source="lcnaf">Bender, Lauretta, 1897-1987.</persname>
+			<persname encodinganalog="700" source="lcnaf">Brill, A. A. (Abraham Arden), 1874-1948.</persname>
+			<persname encodinganalog="700" source="lcnaf">Galdson, Iago, 1875-</persname>
+			<persname encodinganalog="700" source="lcnaf">Lewis, Nolan D. C. (Nolan Don Carpentier), 1889-</persname>
+
+			<persname encodinganalog="700" source="lcnaf">Levy, David M. (David Mordecai), b. 1892</persname>
+			<persname encodinganalog="700" source="lcnaf">Schilder, Paul, 1886-1940.</persname>			  
+			<persname encodinganalog="700" source="lcnaf">Wortis, S. Bernard.</persname>
+			<corpname encodinganalog="710" source="lcnaf">Society for Psychotherapy and Pschopathology.</corpname>
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined">
+	 	<head>Container List</head>
+
+		<c01 level="series">
+		<did>
+		<unitid>Series 1</unitid>
+		<unittitle>Organization</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<unittitle>Statement of Purpose and Proposed Membership,</unittitle>
+			<unitdate>1935</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<unittitle>Constitution and By-laws,</unittitle>
+			<unitdate>1943, 1947</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<unittitle>Miscellaneous Papers, Re: Revisions of Constitution and By-laws,</unittitle>
+			<unitdate>1943</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<unittitle>Notices of Meetings,</unittitle>
+			<unitdate>1949-1950, 1958</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<unittitle>Minutes,</unittitle>
+			<unitdate>1943-1956</unitdate>
+		</did>
+		</c02>
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 2</unitid>
+
+			<unittitle>Membership</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>List of Officers and Members,</unittitle>
+			<unitdate>1943</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>List of Members,</unittitle>
+			<unitdate>1935-1937</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Roll Call/Attendance Sheets,</unittitle>
+			<unitdate>1944-1951</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Attendance Sign in Sheets,</unittitle>
+			<unitdate>1944-1981</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Membership Mailing List,</unittitle>
+			<unitdate>1946-1978</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Obituaries/Eulogies,</unittitle>
+			<unitdate>1950-1963</unitdate>
+
+		</did>
+		</c02>
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 3</unitid>
+			<unittitle>Executive Council</unittitle>
+		</did>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Council Minutes</unittitle>
+			<unitdate>1947, 1975-1976</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Correspondence,</unittitle>
+			<unitdate>1947, 1953</unitdate>
+		</did>
+		</c02>
+
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<unittitle>Working Papers/Agendas for Council Meetings,</unittitle>
+			<unitdate>1937, 1947, 1951-1952</unitdate>
+		</did>
+		</c02>
+
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 4</unitid>
+			<unittitle>Secretary's Working Files</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>Job Description,</unittitle>
+			<unitdate>1954</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>Correspondence, Alphabetical</unittitle>
+			<unitdate>1936-1956</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>Questionnaires,</unittitle>
+			<unitdate>1935-1955</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>	
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Annual Correspondence,</unittitle>
+			<unitdate>1936-1981</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Miscellaneous Correspondence,</unittitle>
+			<unitdate>1949-1962</unitdate>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Correspondence, Re:Publication of Paul Schilder's Books,</unittitle>
+			<unitdate>1941-1948</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Correspondence, Re:Deposits at NYAM</unittitle>
+			<unitdate>1956, 1957</unitdate>
+		</did>
+		</c02>
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 5</unitid>
+
+			<unittitle>Programs</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+			<unittitle>Compiled List of Programs/Program History,</unittitle>
+			<unitdate>1935-1959</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+			<unittitle>Program Schedules,</unittitle>
+			<unitdate>1935-1966</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+			<unittitle>Programs,</unittitle>
+			<unitdate>1937-1975</unitdate>
+
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container lable="Box" type="Box">2</container>
+			<unittitle>Texts of Papers Presented,</unittitle>
+			<unitdate>1949-1950</unitdate>
+
+		</did>
+		</c02>
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 6</unitid>
+			<unittitle>Financial</unittitle>
+		</did>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Financial Statements/Treasurer's Reports,</unittitle>
+			<unitdate>1943-1974</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Receipts, Disbursements, and Dues,</unittitle>
+			<unitdate>1935-1949, 1975-1978</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Dues Ledger,</unittitle>
+			<unitdate>1943-1948</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Dues Slips,</unittitle>
+			<unitdate>1945, 1946, 1973, 1979</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Correspondence with Banks,</unittitle>
+			<unitdate>1943-1948</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Bank Records,</unittitle>
+			<unitdate>1944-1979</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Bills,</unittitle>
+			<unitdate>1947-1977</unitdate>
+		</did>
+		</c02>
+
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">3</container>
+			<unittitle>Dinner Reservations,</unittitle>
+			<unitdate>1978</unitdate>
+		</did>
+		</c02>
+
+		</c01>
+		<c01 level="series">
+		<did>
+			<unitid>Series 7</unitid>
+			<unittitle>Photographs</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>Dinner,</unittitle>
+			<unitdate>1949</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>Slides,</unittitle>
+			<unitdate>1959-1960</unitdate>
+		</did>
+		</c02>
+		<c02>
+		<did>
+
+			<container label="Box" type="Box">2</container>
+			<unittitle>List Identifying People in Slides,</unittitle>
+			<unitdate>1960</unitdate>
+		</did>
+		</c02>
+		</c01>
+		<c01 level="series">
+
+		<did>
+			<unitid>Series 8</unitid>
+			<unittitle>Reference</unittitle>
+		</did>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Reprints,</unittitle>
+			<unitdate>1947</unitdate>
+		</did>
+		</c02>
+		<c02 level="file">
+		<did>
+			<container label="Box" type="Box">2</container>
+
+			<unittitle>Continuing Education Programs,</unittitle>
+			<unitdate>1976-1977</unitdate>
+		</did>
+		</c02>  
+		</c01>
+	</dsc>
+	<otherfindaid>
+	 <head>Additional Resources</head>
+
+	<p><extref href="/library/search-collections/archives/finding-aids/ARS-0002list.pdf">A list of the officers of the Schilder Society is available.</extref></p>
+	 </otherfindaid>
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Provenance</head> 
+		<p>The Schilder Society donated these records in 1957.</p>
+	 </acqinfo> 
+	 <relatedmaterial>
+
+	 <p>This library also holds a portrait of Dr. Paul Schilder, which was donated by the Schilder Society in 1956.</p>
+	 <p>Additionally, the records of the Salmon Committee and the Section on Neurology and Psychiatry at the New York Academy of Medicine may also be of interest to researchers. Several members of the Schilder Society had some connection to the Salmon Committee of the New York Academy of Medicine. Lauretta Bender, an original and life-long member of the Schilder Society, was the wife / widow of Dr. Schilder.  A child psychiatrist she was the first woman awarded the Salmon medal in 1973.   A A. Brill belonged to the Schilder Society  when he was chosen a the Salmon lecturer for 1943.  David M. Levy who was a member of the Schilder Society in the 1930s was also a member of the Salmon committee, and was the Salmon lecturer in 1946 and a medallist in 1967.  Nolan D. C. Lewis was a long-time member of this society beginning in the 1930s.  He remained as a non-resident member and then an emeritus member until 1978.  Dr. Lewis was the Salmon lecturer in 1940 and a medallist in 1968 and  he served as a member of the Salmon Committee.   S. Bernard Wortis, who was also a Salmon committee member and the 1971 Salmon medallist , belonged to the Schilder Society in the 1930s and 1940s. The membership of the Section on Neurology and Psychiatry at the New York Academy of Medicine also included many members of the Schilder Society and Schilder himself presented papers at various section meetings.</p>
+	 </relatedmaterial>
+  </archdesc>
+</ead>

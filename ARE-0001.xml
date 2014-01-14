@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARE-0001</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Eastern Association of Graduates of the Angle School of Orthodontia Records,</titleproper> 
+		  <subtitle>1909-1939</subtitle> 
+		 <author>Collection processed and described by Rebecca Pou</author>
+		</titlestmt> 
+		<publicationstmt>
+            <date>2010</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20110121">January 21, 2011.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">Eastern Association of Graduates of the Angle School of Orthodontia.</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+		<unittitle encodinganalog="245">Eastern Association of Graduates of the Angle School of Orthodontia Records.</unittitle> 
+		<unitdate type="inclusive">1909-1939</unitdate> 
+		<physdesc> <extent encodinganalog="300">.4 linear feet (1 box)</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>The Eastern Association of Graduates of the Angle School of Orthodontia Records. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+         <head>Historical Note</head> 
+	<p>The Eastern Association of Graduates of the Angle School of Orthodontia formed on June 11, 1909.  Members were students of Dr. Edward H. Angle, an innovator in the field of orthodontics (membership was limited for other individuals). As stated in the Association's constitution, its purpose was "the study of orthodontia, its advancement, and the promulgation of the welfare of the Angle School, and its Alumni Society." After the close of the Angle School and the death of Dr. Angle in 1930, the Association faced a diminishing membership. At 1939 annual meeting, the Association brought its existence to an end.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>This small collection contains the constitution, by-laws, and minutes of the Society, as well as a meeting program for the thirtieth annual meeting, held May 8-9, 1939.</p> 
+	 </scopecontent> 	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Dentistry -- New York (State) -- New York -- Societies, etc.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Orthodontics -- New York (State) -- New York -- Societies, etc.</subject>
+		  <corpname encodinganalog="610" source="lcnaf">Angle School of Orthodontia. Alumni Society.</corpname>	
+		  <corpname encodinganalog="610" source="lcnaf">Eastern Association of Graduates of the Angle School of Orthodontia.</corpname>
+		</controlaccess> 
+	 </controlaccess> 
+ 	 <dsc type="combined">
+	 	<head>Container List</head>
+		<c01>
+		<did>
+		<unittitle>Eastern Association of Graduates of the Angle School of Orthodontia Records</unittitle>
+		</did>
+			<c02 level="file">
+				<did>
+					<container label="Box" type="Box">1</container>
+					<unittitle>Minute Book,</unittitle>
+					<unitdate>1909-1911</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">1</container>
+					<unittitle>Constitution, by-laws, and minutes,</unittitle>
+					<unitdate>1909-1913</unitdate>
+				</did>
+			</c02>
+			<c02>
+				<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">2</container>
+					<unittitle>Minutes (continued),</unittitle>
+					<unitdate>1914-1921</unitdate>		
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">3</container>
+					<unittitle>Constitution, by-laws, and minutes,</unittitle>
+					<unitdate>1921-1929</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Folder" type="Folder">4</container>
+					<unittitle>Minutes (continued),</unittitle>
+					<unitdate>1930-1939</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+					<container label="Box" type="Box">1</container>
+					<container label="Envelope" type="Envelope">1</container>
+					<unittitle>Meeting program,</unittitle>
+					<unitdate>May 8-9, 1939</unitdate>
+				</did>
+			</c02>
+		</c01>
+    </dsc>	
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <processinfo encodinganalog="538">
+	 <p>Materials which were in a binder are now housed in acid-free file folders.</p>
+	 </processinfo>
+  </archdesc>
+</ead>

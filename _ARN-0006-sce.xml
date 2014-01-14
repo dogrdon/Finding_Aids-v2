@@ -1,0 +1,403 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap-boot.xsl"?>
+<!--<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">  
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARN-0006</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Salmon Committee on Psychiatry and Mental Hygiene Records,</titleproper> 
+		  <subtitle>1931-1988</subtitle> 
+		 <author>Collection processed and described by Dorothy Truman</author>
+		</titlestmt> 
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20090528">May 28, 2009.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">New York Academy of Medicine. Salmon Committee on Psychiatry and Mental Hygiene</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+		<unittitle encodinganalog="245">Salmon Committee on Psychiatry and Mental Hygiene Records</unittitle> 
+		<unitdate type="inclusive">1931-1988</unitdate> 
+		<physdesc> 
+			<extent encodinganalog="300">12 linear feet; </extent>
+ 			<extent encodinganalog="300">4 cartons, 7 boxes, 3 1/2 boxes</extent>		
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Malloch Rare Book Room.</corpname></repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Salmon Committee on Psychiatry and Mental Hygiene Records. Malloch Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>Dr. Thomas W. Salmon, a leader in the fields of psychiatry and mental health in the first decades of the 20th century, died in a boating accident in the summer of 1927.  His associates at the National Committee of Mental Hygiene, of which he had been the first medical director, and others of Dr. Salmon's colleagues and admirers established a memorial committee, The Thomas W. Salmon Memorial Inc., to raise funds for a lectureship in psychiatry in his honor.</p><p>Once the funds were in hand, a sum of $100,000.00 was turned over to the New York Academy of Medicine in January of 1931.  The council of the Academy established a committee to arrange for the annual Salmon lectures. Several members of this committee were from the fund-raising committee.  The committee was first known as the Salmon Memorial Committee of the New York Academy of Medicine, but in March 1934 the name was changed to the Salmon Committee on Psychiatry and Mental Hygiene which helped differentiate it from the original fund-raising committee.  The first lecturer was Adolf Meyer in 1933.</p><p>The original format of the lectures was very ambitious.  There were to be 3 lectures given a week apart held at the New York Academy of Medicine.  It was expected that the speaker would also travel to other cities to give the lectures.  This happened occasionally, most notably in 1941 and 1944.  The lecturers in those years were psychiatrists with the British Army. While in the U.S. they spoke in several cities.  Among other venues for the Salmon Lectures were Toronto in 1939, Hartford, CT in 1972, Rochester, NY in 1973, Albany, NY in 1982, and Cambridge, MA in 1983.  Most of the time the lectures took place in New York City at the Academy of Medicine.  Occasionally they were held at other sites in New York City. In 1976 there were three lecturers.  Eventually the lecturer gave two talks on a single day; one in the afternoon and the other in the evening.</p><p>The Committee expected to have the lectures published shortly after they were given, a goal that proved difficult and sometimes impossible to achieve. The committee often spent much time and energy trying to get the manuscripts from the lecturers and dealing with publishers.  Eventually after the mid 1970s the lecturers were free to make their own arrangements for publication in a journal or in book form. In 1977 there was a suggestion that the Salmon Lectures be regularly submitted to the journal Science and in 1979 there was consideration of publishing in the APA journal or the NYAM Bulletin.</p><p>In addition to the lectures the committee originally expected to fund selected research projects, but soon found the funds insufficient and abandoned that project after one year. However, requests for funding continued to come into the committee for many years.</p><p>
+Early in its existence the committee decided to provide a Salmon medal to be awarded for distinguished service to psychiatry to a person chosen by the American Psychiatric Association, but no awards were made until 1942 when Adolf Meyer was the first recipient.  In 1945 Joseph Moore received the medal.  In the 1960s the committee decided to award the medal itself and beginning in 1963 one or more medals were awarded annually.  The recipients did not lecture, but received the medal and a citation at the dinner given for the Salmon lecturer.</p>
+<p>The committee also undertook two other projects.  They commissioned a portrait of Dr. Salmon which was given to the NYAM. They also arranged for a biography of Dr. Salmon which was published in 1950.</p><p>In 1981 Dr. Francis F. Braceland, a former member and chairman of the committee, produced a history of the committee and its work. It is available in the collection.</p><p>The records in this collection go through 1983 with a few isolated items for later years. As of January 1984, NYAM's Office of Medical Education assumed the administrative and clerical needs of the Committee.</p><p>The committee's number varied somewhat over the years, but it was a relatively stable and eminent membership.  In the period 1932-1983 the committee had only 4 chairmen.  The President and the Director of the Academy were ex-officio committee members. Lists of the committee members and the names of the NYAM officers who were ex officio members are available (see "additional resources").
+</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>This collection documents the work of the New York Academy of Medicine's Salmon Committee on Psychiatry and Mental Hygiene from its inception in 1931 to 1983 with a few isolated items from later years. The committee's job was to select annually an eminent member of the profession to lecture on his work. The lectures, to be called the Salmon Lectures, were in honor of Dr. Thomas W. Salmon who had died in 1927.  The committee also arranged for publicity and for the site of the lecture.  It also dealt with the publishers of the intended series of books. Later the committee also presented medals to outstanding people in the field of psychiatry and mental health.</p><p>Most of the materials in this collection are correspondence among committee members and with lecturers, medallist, and publishers. The most important and interesting materials are the annual working files of the committee. In the early years there are lengthy letters from Dr. William Russell about the organization and function of the committee.  Although much of the material is routine-- arranging for publicity and the logistics of reserving the hall, etc.-- there are also the letters discussing the various candidates for lecturer and medallist. Occasionally these letters also include personal information about the correspondents. Combined with the minutes, this series provides insights and information about the issues and individuals in the field of psychiatry and mental hygiene in the United States and abroad.</p><p>There are some financial papers including correspondence from the 1930s and 1940s between the committee and the Academy re: disagreements concerning the financial arrangements. There are also statements of the Salmon Fund which was managed by the NYAM and papers re: royalties accruing from the sale of published lectures.</p><p>Found among these papers were materials created by the Salmon Memorial, Inc., 1929-1953. This committee raised the funds for a lecture series in honor of Dr. Thomas W. Salmon and turned $100,000.00 (one hundred thousand dollars) over to the New York Academy of Medicine to manage the funds and to appoint a committee to administer the lecture series.  Dr. C. C. Burlingame, the first chairman of the NYAM's Salmon Committee, was also a member and vice chairman of the Salmon Memorial, Inc. The papers of the Salmon Memorial, Inc were placed in a separate collection and a finding aid is available.</p>
+	 </scopecontent> 	  
+	 <arrangement>
+	 <head>Arrangement of Collection</head>
+	 <p>In 1977 the library prepared a description of the contents of the file cabinets holding these records.  This original description is in the accession folder. It used the titles of the folders but apparently made little investigation of the contents.  This inventory retains some of the folder names of the 1977 description but has made rearrangements and some refinements to bring clarity and consistency to the series and make access easier for the researcher.</p><p>The duplication and inconsistencies doubtless were the result of the records being kept in several different offices at the same time.  Dr. Burlingame, the first chairman, was the director of the Institute for Living   in Hartford, CT. but he also had an office in New York.  Salmon Committee business was handled in both offices and many copies of documents were sent between these two offices. There were also records kept at the NYAM.   After Dr. Burlingame's death in 1950, the files were kept in Dr. Zabriskie's office in New York.  Apparently there was a fire in Zabriskie's office not long before he died in 1959 and the files were in some disarray when they were transferred to Dr. Braceland's office. When Dr. Braceland became chairman of the committee the files again were kept at the Institute for Living where he had become director.</p><p>When Dr. Frazier of the McLean Hospital in Boston assumed the chairmanship in 1977 again there were records being kept in several far-flung offices.  Some of the records came from offices of the NYAM adding another layer of complexity.  According to notes found among the papers, some of the secretaries sorted through and arranged some of the papers.  As a result there was some confusion and inconsistency in the content and the identification of some of the records.  This collection is now an amalgam of the records kept in by a number of people in a number of different offices. However, the records clearly reflect who was chairman of the committee directing its work.  There are some instances in the Annual / Arrangements files that must have been kept in some offices of the NYAM, but they have been integrated into the general working file.</p><p>The chronological files of Working papers called Annual  / Arrangements was created out of several different chronological files variously labeled at the time of the earlier inventory committee, arrangements, business etc. These were combined in one chronological file dealing with the work of the committee.</p><p>The Lecturers files were refined to contain only correspondence between the invited lecturer and the committee. There are some notable gaps; there are few of any papers about the lecturers Dr. William Healy in 1937, Dr. Julius Axelrod in 1972, and Dr. L. C. Wynn 1973   As found, some of the files in this series contained the papers related to arranging the publicity and the location of the lecture which was the kind of material found in the arrangements and yearly files.  The same was true of the Medallist files. Papers moved from one series to another were often placed in separate folders with a note made of where they had originally been found.</p>
+	 </arrangement>
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		 	<subject source="lcsh" encodinganalog="650">Psychiatry -- New York (State) -- New York.</subject> 
+			<subject source="lcsh" encodinganalog="650">Psychiatry -- Societies, etc.</subject>		
+			<subject source="lcsh" encodinganalog="610">New York Academy of Medicine. Salmon Committee on Psychiatry and Mental Hygiene.</subject>				 
+			<corpname source="lcnaf" encodinganalog="710">Schilder Society.</corpname> 
+			<corpname source="lcnaf" encodinganalog="710">New York State Psychiatric Institute.</corpname> 
+			<corpname source="lcnaf" encodinganalog="710">New York Academy of Medicine.</corpname> 							  
+			<corpname source="lcnaf" encodinganalog="710">American Psychiatric Association.</corpname>
+			<persname source="lcnaf" encodinganalog="700">Salmon, Thomas W. (Thomas William), 1876-1927.</persname>
+			<persname source="lcnaf" encodinganalog="700">Bender, Lauretta, 1897-1987.</persname>
+			<persname source="lcnaf" encodinganalog="700">Braceland, Francis J. (Francis James), 1900-1985.</persname>
+			<persname source="lcnaf" encodinganalog="700">Meyer, Adolf, 1866-1950.</persname>
+			<persname source="lcnaf" encodinganalog="700">Sachs, Bernard, 1858-1944.</persname>			  
+			<persname source="lcnaf" encodinganalog="700">Orton, Samuel Torrey, 1879-1948.</persname>
+			<persname source="lcnaf" encodinganalog="700">Brill, A. A. (Abraham Arden), 1874-1948.</persname>
+			</controlaccess> 
+	 </controlaccess> 
+	<dsc type="combined">
+	<head>Container List</head>
+	<c01 level="series">
+	<did>
+	<unitid>Series 1</unitid>
+	<unittitle>Organization and Administration</unittitle>
+	</did>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Chairman's Notebook #1,</unittitle>
+				<unitdate>1931-1950.</unitdate>
+			</did>		
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">1</container>
+				<unittitle>Chairman's Notebook #2,</unittitle>
+				<unitdate>1931-1940.</unitdate>
+			</did>			
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">2</container>
+				<unittitle>Office Notebook #3,</unittitle>
+				<unitdate>1931-1959.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">2</container>
+				<unittitle>Academy Director's Notebook #4,</unittitle>
+				<unitdate>1931-1961.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">3</container>
+				<unittitle>Minutes,</unittitle>
+				<unitdate>1951-1987.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">7</container>
+				<unittitle>Membership File,</unittitle>
+				<unitdate>1932-1984.</unitdate>
+			</did>
+		</c02>
+	</c01>
+	
+	<c01 level="series">
+	<did>
+	<unitid>Series 2</unitid>
+	<unittitle>Executive Working Files</unittitle>
+	</did>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">4-6</container>
+				<unittitle>Annual / Arrangements Files,</unittitle>
+				<unitdate>1932-1983.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">7</container>
+				<unittitle>Miscellaneous Subject Files,</unittitle>
+				<unitdate>1931-1981.</unitdate>
+			</did>
+				<c03 level="file">
+					<did>
+						<unittitle>Policies and Procedures,</unittitle>
+						<unitdate>1931-1964.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Membership,</unittitle>
+						<unitdate>1932-1977.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Portrait of Thomas W. Salmon,</unittitle>
+						<unitdate>1933-1934.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Biography of Dr. Thomas W. Salmon,</unittitle>
+						<unitdate>1937-1950.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Design and Production of Salmon Medal,</unittitle>
+						<unitdate>1935-1968.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Directory of American Foundations,</unittitle>
+						<unitdate>1938-1948.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Posthumous Publication of Dr. Meyer's 1932 Lectures,</unittitle>
+						<unitdate>1950-1960.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Posthumous Publication of Ralph Linton's 1953 Lecture,</unittitle>
+						<unitdate>1954-1958.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Posthumous Reprinting of Dr. Orton's 1936 Lecture,</unittitle>
+						<unitdate>1960-1961.</unitdate>
+					</did>
+				</c03>
+				<c03 level="file">
+					<did>
+						<unittitle>Preparation of the History of the Salmon Committee by Dr. F. J. Braceland,</unittitle>
+						<unitdate>1970-1981.</unitdate>
+					</did>
+				</c03>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">8-9</container>
+				<unittitle>Lecturer Files,</unittitle>
+				<unitdate>1931-1983.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">10</container>
+				<unittitle>Tape Recordings of Lectures by Arvid Carlsson</unittitle>
+				<unitdate>1931-1981.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">11</container>
+				<unittitle>Publisher Files,</unittitle>
+				<unitdate>1932-1972.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">12</container>
+				<unittitle>Medalist Files,</unittitle>
+				<unitdate>1963-1983.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">7</container>
+				<unittitle>Miscellaneous Subject Files,</unittitle>
+				<unitdate>1931-1981.</unitdate>
+			</did>
+		</c02>
+	</c01>
+	
+	<c01 level="series">
+	<did>
+	<unitid>Series 3</unitid>
+	<unittitle>Financial Records</unittitle>
+	</did>	
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">13</container>
+				<unittitle>Audits,</unittitle>
+				<unitdate>1939.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">13</container>
+				<unittitle>Financial Statements,</unittitle>
+				<unitdate>1933-1983.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">13</container>
+				<unittitle>Financial Correspondence,</unittitle>
+				<unitdate>1931-1969.</unitdate>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">14</container>
+				<unittitle>Report on Grants,</unittitle>
+				<unitdate>1933.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">14</container>
+				<unittitle>Grant Applications and Requests for Funds,</unittitle>
+				<unitdate>1933-1956.</unitdate>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">15</container>
+				<unittitle>Royalties Payments,</unittitle>
+				<unitdate>1940-1969.</unitdate>
+			</did>
+		</c02>
+	</c01>
+	
+	<c01 level="series">
+	<did>
+	<unitid>Series 4</unitid>
+	<unittitle>Publicity</unittitle>
+	</did>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">16</container>
+				<unittitle>Mailing List.</unittitle>
+			</did>
+		</c02>	
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">16</container>
+				<unittitle>NYAM Press Releases,</unittitle>
+				<unitdate>1934-1957.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">16</container>
+				<unittitle>Posters for Lectures,</unittitle>
+				<unitdate>1978-1983, 1988.</unitdate>
+			</did>
+		</c02>
+			<c02 level="file">
+			<did>
+				<container label="Box" type="Box">17</container>
+				<unittitle>Invitation to First Salmon Lecture,</unittitle>
+				<unitdate>1932.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">17</container>
+				<unittitle>Announcement Cards for Lectures,</unittitle>
+				<unitdate>1934, 1938.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">17</container>
+				<unittitle>Announcement Flyers for Lectures,</unittitle>
+				<unitdate>1933, 1941-1984.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">17</container>
+				<unittitle>NYAM Program Leaflets / Calendars of Events,</unittitle>
+				<unitdate>1934-1962.</unitdate>
+			</did>
+		</c02>
+	</c01>
+	
+	<c01 level="series">
+	<did>
+	<unitid>Series 5</unitid>
+	<unittitle>Publications</unittitle>
+	</did>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">18</container>
+				<unittitle>NYAM News Notes,</unittitle>
+				<unitdate>1981, 1982.</unitdate>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">18</container>
+				<unittitle>NYAM Bulletin,</unittitle>
+				<unitdate>1931, 1981.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">18</container>
+				<unittitle>Reprints,</unittitle>
+				<unitdate>1931, 1977.</unitdate>
+			</did>
+		</c02>
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">18</container>
+				<unittitle>History of the Salmon Committee,</unittitle>
+				<unitdate>1981.</unitdate>
+			</did>
+		</c02>		
+		<c02 level="file">
+			<did>
+				<container label="Box" type="Box">18</container>
+				<unittitle>Biography of Thomas W. Salmon,</unittitle>
+				<unitdate>1982.</unitdate>
+			</did>
+		</c02>
+		
+	</c01>
+	</dsc>
+<otherfindaid>
+	 <head>Additional Resources</head>
+	<p><extref href="http://www.nyam.org/library/docs/salmon appendices.pdf">Appendices to the finding aid are available.</extref></p>
+	 </otherfindaid>	
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Malloch Rare Book Room in writing.</p> 
+	 </userestrict> 
+  </archdesc>
+</ead>

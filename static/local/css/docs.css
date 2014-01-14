@@ -1,0 +1,218 @@
+/*
+ * Main navigation
+ *
+ *
+ */
+
+.bs-docs-nav {
+  text-shadow: 0 -1px 0 rgba(0,0,0,.15);
+  background-color: #0088cc;
+  border-color: #463265;
+  box-shadow: 0 1px 0 rgba(255,255,255,.1);
+}
+.bs-docs-nav .navbar-collapse {
+  border-color: #463265;
+}
+.bs-docs-nav .navbar-brand {
+  color: #fff;
+}
+.bs-docs-nav .navbar-nav > li > a {
+  color: #cdbfe3;
+}
+.bs-docs-nav .navbar-nav > li > a:hover {
+  color: #fff;
+}
+.bs-docs-nav .navbar-nav > .active > a,
+.bs-docs-nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #463265;
+}
+.bs-docs-nav .navbar-toggle {
+  border-color: #0088cc;
+}
+.bs-docs-nav .navbar-toggle:hover {
+  background-color: #463265;
+  border-color: #463265;
+}
+
+/* DL reset */
+dl {margin:0; padding:0}
+
+/* Table code for event groups */
+ table.table-condensed ul {
+    margin: 0;
+    padding: 0 1em;
+}
+
+/*
+ * Footer
+ *
+ * Separated section of content at the bottom of all pages, save the homepage.
+ */
+
+#footer {
+  border-top: 1px solid #e5e5e5;
+    height: 60px;
+  background-color: #f5f5f5;
+  margin-top: 60px;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#footer p {
+ margin: 20px 0;
+}
+
+@media (min-width: 768px) {
+  #footer {
+    text-align: left;
+  }
+  #footer p {
+    margin-bottom: 0;
+  }
+}
+
+
+/*
+ * Side navigation
+ *
+ * Scrollspy and affixed enhanced navigation to highlight sections and secondary
+ * sections of docs content.
+ */
+
+/* By default it's not affixed in mobile views, so undo that */
+.bs-sidebar.affix {
+  position: static;
+}
+
+/* First level of nav */
+.bs-sidenav {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top:    10px;
+  padding-bottom: 10px;
+  text-shadow: 0 1px 0 #fff;
+  background-color: #f7f5fa;
+  border-radius: 5px;
+    height: 90%;
+}
+
+/* All levels of nav */
+.bs-sidebar .nav > li > a {
+  display: block;
+  color: #716b7a;
+  padding: 5px 20px;
+}
+.bs-sidebar .nav > li > h4 {
+  padding: 0 20px;
+}
+.bs-sidebar .nav > li > div {
+      padding: 10px 20px;
+}
+
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a:focus {
+  text-decoration: none;
+  background-color: #e5e3e9;
+  border-right: 1px solid #dbd8e0;
+}
+.bs-sidebar .nav > .active > a,
+.bs-sidebar .nav > .active:hover > a,
+.bs-sidebar .nav > .active:focus > a {
+  font-weight: bold;
+  color: #0088cc;
+  background-color: transparent;
+  border-right: 1px solid #0088cc;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-sidebar .nav .nav {
+  display: none; /* Hide by default, but at >768px, show it */
+  margin-bottom: 8px;
+}
+.bs-sidebar .nav .nav > li > a {
+  padding-top:    3px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  font-size: 90%;
+}
+.bs-sidebar .nav .nav .nav > li > a {
+  padding-top:    3px;
+  padding-bottom: 3px;
+  padding-left: 50px;
+  font-size: 90%;
+}
+
+/* Show and affix the side nav when space allows it */
+@media screen and (min-width: 992px) {
+  .bs-sidebar .nav > .active > ul {
+    display: block;
+  }
+  /* Widen the fixed sidebar */
+  .bs-sidebar.affix,
+  .bs-sidebar.affix-bottom {
+    width: 213px;
+  }
+  .bs-sidebar.affix {
+    position: fixed; /* Undo the static from mobile first approach */
+    top: 80px;
+  }
+  .bs-sidebar.affix-bottom {
+    position: absolute; /* Undo the static from mobile first approach */
+  }
+  .bs-sidebar.affix-bottom .bs-sidenav,
+  .bs-sidebar.affix .bs-sidenav {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+@media screen and (min-width: 1200px) {
+  /* Widen the fixed sidebar again */
+  .bs-sidebar.affix-bottom,
+  .bs-sidebar.affix {
+    width: 263px;
+  }
+}
+
+
+/*
+ * Docs sections
+ *
+ * Content blocks for each component or feature.
+ */
+
+/* Space things out */
+.bs-docs-section + .bs-docs-section {
+  padding-top: 40px;
+}
+
+/* Janky fix for preventing navbar from overlapping 
+commented out since I opted to not use a fixed navbar (if the navbar is fixed, that causes a host of other issues with making sure that the destinations 
+of the internal links are not hidden by the navbar).
+h2[id] {
+  padding-top: 80px;
+  margin-top: -45px;
+}
+*/
+
+
+
+
+/* DSC Container list classes for indentation */
+
+.padding-1 {padding-left: 30px !important;}
+.padding-2 {padding-left: 40px !important;}
+.padding-3 {padding-left: 50px !important;}
+.padding-4 {padding-left: 60px !important;}
+.padding-5 {padding-left: 70px !important;}
+.padding-6 {padding-left: 80px !important;}
+.padding-7 {padding-left: 90px !important;}
+.padding-8 {padding-left: 100px !important;}
+.padding-9 {padding-left: 110px !important;}
+.padding-10 {padding-left: 120px !important;}
+.padding-11 {padding-left: 130px !important;}
+.padding-12 {padding-left: 140px !important;}
+

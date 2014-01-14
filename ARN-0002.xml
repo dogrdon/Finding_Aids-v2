@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARN-0002</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>New York Neurological Society Records</titleproper> 
+		  <subtitle>1874-1935</subtitle> 
+		 <author>Collection processed and described by Dorothy Truman</author>
+
+		</titlestmt> 
+		<publicationstmt>
+            <date>2008</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20090623">June 23, 2009.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">New York Neurological Society</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+
+		<unittitle encodinganalog="245">New York Neurological Society Records</unittitle> 
+		<unitdate type="inclusive">1874-1935</unitdate> 
+		<physdesc> <extent encodinganalog="300">2 linear feet; </extent><extent encodinganalog="300">1 carton</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>New York Neurological Society Records. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p> The New York Neurological Society was founded in 1872. Two years later, several members called for a reorganization saying that the Society  "beyond the transaction of some business of minor importance...had thus far never accomplished anything."  The revived society was for the "study of clinical cases and pathological specimens, leaving to our sister society [The New York Society of Neurology and Electrology] the discussions of papers of a heavy and theoretical character." The Society was incorporated in 1882.</p>
+
+		<p>Early on, the Society became active in political areas.  Among its first causes were lobbying against a proposed law to prohibit medical experimentation on animals and concern for abuses in the management of the city's insane asylum.</p>
+<p>The society often had joint meetings with the New York Academy of Medicine's Section on Neurology and Psychiatry.  To reduce the number of meetings members had to attend each year, in 1931 it was proposed to hold all meetings jointly with the Academy's section.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>This small collection is largely the minutes of the Society. The minutes are fairly sparse; details of presentations and discussions are lacking beyond the names of the presenter and those that participated in the discussion. The membership records are extensive, and the minutes of the Executive Council are almost entirely about membership.</p> 
+	 </scopecontent> 
+	<arrangement>
+		<head>Arrangement of Collection</head>
+		<p>Organized into three series:
+                        <list type="simple">
+
+                            <item>Organization</item>
+                            <item>Executive Council</item>
+                            <item>Membership</item>
+                        </list>
+                    </p>
+	 </arrangement>	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Neurology -- New York (State) -- New York -- Societies, etc.</subject>
+
+		  <corpname encodinganalog="610" source="lcnaf">New York Neurological Society.</corpname>	
+		  <corpname encodinganalog="710" source="lcnaf">New York Academy of Medicine. Section on Neurology and Psychiatry.</corpname>	  
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined">
+	 	<head>Container List</head>
+		<c01 level="series">
+			<did>
+			<unitid>Series 1</unitid>		
+			<unittitle>Organization</unittitle>			
+			</did>
+
+			<c02 level="file">
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Certificate of Incorporation,</unittitle>
+				<unitdate>1882</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Constitution and By-laws,</unittitle>
+				<unitdate>1889-1904</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Printed Booklet containing Constitution, By-laws, Officers, and Members,</unittitle>
+				<unitdate>1935</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Minutes,</unittitle>
+
+				<unitdate>1874-1932</unitdate>
+				</did>
+			</c02>
+		</c01>
+		<c01 level="series">		
+			<did>
+			<unitid>Series 2</unitid>
+			<unittitle>Executive Council</unittitle>		
+			</did>
+
+			<c02 level="file">
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Minutes,</unittitle>
+				<unitdate>1874-1882</unitdate>
+				</did>
+			</c02>
+		</c01>
+
+		<c01 level="series">	
+			<did>
+			<unitid>Series 3</unitid>
+			<unittitle>Membership</unittitle>		
+			</did>
+			<c02 level="file">
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Lists of Members,</unittitle>
+
+				<unitdate>1879, 1883</unitdate>
+				</did>
+			</c02>
+			<c02 level="file">
+				<did>
+				<container label="Box" type="Box">1</container>	
+				<unittitle>Correspondence,</unittitle>
+				<unitdate>1883</unitdate>
+
+				</did>
+			</c02>
+		</c01>
+	</dsc>	
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <relatedmaterial>
+	 	<p>As the New York Neurological Society held meetings jointly with the New York Academy of Medicine Section on Neurology and Psychiatry after 1931, researchers may also be interested in the Section's records, which are available in this library.</p>
+	</relatedmaterial>
+
+  </archdesc>
+</ead>

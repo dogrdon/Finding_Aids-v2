@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARH-0003</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Minutes of the Hunterian Society (New York, N.Y.)</titleproper> 
+		  <subtitle>1912-1920</subtitle> 
+		  <author>Collection processed and described by Rebecca Pou</author>
+
+		</titlestmt> 
+		<publicationstmt>
+            <date>2008</date>
+		</publicationstmt>
+		<notestmt><note><p>Preliminary processing and description done by Donald Prochera, 2007.</p></note></notestmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20081119">November 19, 2008.</date></creation>
+
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">Hunterian Society (New York, N.Y.)</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+		<unittitle encodinganalog="245">Minutes of the Hunterian Society (New York, N.Y.)</unittitle> 
+		<unitdate type="inclusive">1912-1920</unitdate> 
+		<physdesc> <extent encodinganalog="300">.2 linear feet; </extent>
+
+		  <extent encodinganalog="300">1 volume</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Coller Rare Book Reading Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Minutes of the Hunterian Society (New York, N.Y.). Coller Rare Book Reading Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p> The Hunterian Society of New York held regular meetings in the homes and offices of members and occasionally at local clubhouses. Meetings featured presentation of cases, patients, and papers by Society members, as well as organizational business. The Society had no known relationship with the Hunterian Society established in the United Kingdom.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>Includes minutes, meeting announcements, and attendance sheets (1919-1920).</p> 
+	 </scopecontent> 
+	<arrangement>
+
+		<head>Arrangement of Collection</head>
+		<p>A single series of minutes, compiled chronologically.</p>
+	 </arrangement>	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Medicine -- New York (State) -- New York -- Societies, etc.</subject> 
+		  <corpname encodinganalog="610" source="lcnaf">Hunterian Society (New York, N.Y.)</corpname>
+
+		</controlaccess> 
+	 </controlaccess> 
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Coller Rare Book Reading Room in writing.</p> 
+	 </userestrict>  
+  </archdesc>
+</ead>

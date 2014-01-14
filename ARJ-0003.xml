@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARJ-0003</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+		  <titleproper>Bertha Johnson Collection,</titleproper> 
+		  <subtitle>1848-1956</subtitle> 
+		 <author>Collection processed and described by Rebecca Pou</author>
+
+		</titlestmt> 
+		<publicationstmt>
+            <date>2009</date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20090624">June 24, 2009.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <persname encodinganalog="100">Johnson, Bertha F., 1880-</persname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+
+		<unittitle encodinganalog="245">Bertha Johnson Collection</unittitle> 
+		<unitdate type="inclusive">1848-1956</unitdate> 
+		<physdesc> <extent encodinganalog="300">1.2 linear feet</extent>
+		  </physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Bertha Johnson Collection. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+		<head>Historical Note</head> 
+		<p>Little is known about the life and work of Bertha Florence Johnson. According to the <title render="italic">American Medical Directory</title> for 1931, Johnson was born in 1880 and received her degree from the New York Medical Hospital and College for Women in 1905. She was licensed in 1925, but was not practicing in 1931. She was listed as located in Granville Summit, Pennsylvania. Bertha Johnson's sister, Pearl Johnson, was the partner of Benjamin Tucker, an American anarchist.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>The collection is largely comprised of ephemeral materials on medical subjects from the office of Dr. Bertha F. Johnson. Ephemera on agricultural and culinary topics are also present, as well as a few personal papers of Dr. Johnson and Emery Andrews.</p> 
+	 </scopecontent> 
+	<arrangement>
+
+		<head>Arrangement of Collection</head>
+		<p>While the collection has not been arranged into series, three rough categories can be found - personal papers, medical ephemera, and culinary and agricultural ephemera. Within the medical ephemera, items have been organized alphabetically by publisher when the publisher is represented by two or more items.</p>
+	 </arrangement>	  
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <subject encodinganalog="655" source="lcsh">Ephemera.</subject> 
+		  <persname encodinganalog="700" source="lcnaf">Andrews, Emery.</persname>
+
+		</controlaccess> 
+	 </controlaccess> 
+	 <dsc type="combined">
+	 	<head>Container List</head>
+		<c01>
+		<c02 level="otherlevel">
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">1</container>
+
+			<unittitle>Bertha Johnson Personal Papers,</unittitle>
+			<unitdate>undated, 1940</unitdate>
+		</did>
+		</c02>
+		<c02 level="otherlevel">
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">2</container>
+			<unittitle>Emery Andrews Personal Papers,</unittitle>
+			<unitdate>undated, 1900-1931</unitdate>
+		</did>
+		</c02>
+		<c02 level="otherlevel">
+		<did>
+
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">3</container>
+			<unittitle>Medical Ephemera  - Appeal Publishing Co.,</unittitle>
+			<physdesc label="Quantity:">2 items</physdesc>			
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">4</container> 
+			<unittitle>Medical Ephemera - Battle Creek Sanitarium,</unittitle>
+			<physdesc label="Quantity:">7 items</physdesc>	
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">5</container>
+			<unittitle>Medical Ephemera - Bilhuber-Knoll Corp.,</unittitle>
+			<unitdate>3 items</unitdate>
+		</did>
+		</c02>
+
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">6</container>
+			<unittitle>Medical Ephemera - Cabinet Mfg. Co.,</unittitle>
+			<physdesc>11 items (10 duplicates)</physdesc>
+		</did>
+
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">7</container>
+			<unittitle>Medical Ephemera - S. H. Camp and Company,</unittitle>
+			<physdesc>3 items</physdesc>
+
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">8</container>
+			<unittitle>Medical Ephemera - Ciba Pharmaceutical Products, Inc.,</unittitle>
+
+			<physdesc>13 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">9</container>
+
+			<unittitle>Medical Ephemera - Cole Chemical Co.,</unittitle>
+			<physdesc>2 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">10</container>
+			<unittitle>Medical Ephemera - Dios Chemical Company,</unittitle>
+			<physdesc>5 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">11</container>
+			<unittitle>Medical Ephemera - Fowler and Wells,</unittitle>
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">12</container>
+			<unittitle>Medical Ephemera - Harrower Laboratory, Inc.,</unittitle>
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">13</container>
+			<unittitle>Medical Ephemera - Life Extension Institute,</unittitle>
+			<physdesc>7 items</physdesc>
+		</did>
+
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">14</container>
+			<unittitle>Medical Ephemera - Lindlahr Sanitarium,</unittitle>
+			<physdesc>3 items</physdesc>
+
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">15</container>
+			<unittitle>Medical Ephemera - Merck and Co.,</unittitle>
+
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">16</container>
+
+			<unittitle>Medical Ephemera - Metropolitan Life Insurance Company,</unittitle>
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">17</container>
+			<unittitle>Medical Ephemera - New Jersey. State Dept. of Health,</unittitle>
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">18</container>
+			<unittitle>Medical Ephemera - Pennsylvania. Dept. of Health,</unittitle>
+			<physdesc>23 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">19</container>
+			<unittitle>Medical Ephemera - Pennsylvania. Dept. of Health</unittitle>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">20</container>
+			<unittitle>Medical Ephemera - Petrogalar Laboratories,</unittitle>
+			<physdesc>4 items</physdesc>
+		</did>
+		</c02>
+
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">21</container>
+			<unittitle>Medical Ephemera - Physical Culture Publishing Co.,</unittitle>
+			<physdesc>2 items</physdesc>
+		</did>
+
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">22</container>
+			<unittitle>Medical Ephemera - Purdue Frederick Company,</unittitle>
+			<physdesc>2 items</physdesc>
+
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">23</container>
+			<unittitle>Medical Ephemera - Taylor Instrument Companies,</unittitle>
+
+			<physdesc>6 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">24</container>
+
+			<unittitle>Medical Ephemera - Thos. Leeming and Co., Inc.,</unittitle>
+			<physdesc>4 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+
+			<container label="Folder" type="Folder">25</container>
+			<unittitle>Medical Ephemera - United States,</unittitle>
+			<physdesc>3 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+		<did>
+
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">26</container>
+			<unittitle>Medical Ephemera - Winthrop Chemical Company (New York, N.Y.),</unittitle>
+			<physdesc>5 items</physdesc>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">27</container>
+			<unittitle>Medical Ephemera - Miscellaneous</unittitle>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">28</container>
+			<unittitle>Medical Ephemera - Miscellaneous</unittitle>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">29</container>
+			<unittitle>Medical Ephemera - Miscellaneous</unittitle>
+		</did>
+		</c02>
+		<c02>
+
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">30</container>
+			<unittitle>Medical Ephemera - Miscellaneous,</unittitle>
+			<unitdate>1883-1909</unitdate>
+		</did>
+		</c02>
+
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">31</container>
+			<unittitle>Medical Ephemera - Miscellaneous,</unittitle>
+			<unitdate>1919-1936</unitdate>
+		</did>
+
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">32</container>
+			<unittitle>Medical Ephemera - Miscellaneous,</unittitle>
+			<unitdate>1937-1943</unitdate>
+
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">33</container>
+			<unittitle>Culinary and Agricultural Ephemera - Miscellaneous</unittitle>
+
+		</did>
+		</c02>
+		<c02>
+		<did>
+			<container label="Box" type="Box">1</container>
+			<container label="Folder" type="Folder">34</container>
+			<unittitle>Culinary and Agricultural Ephemera - Miscellaneous</unittitle>
+
+		</did>
+		</c02>																																																																																																		</c01>
+	</dsc>	
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Provenance</head> 
+		<p>The collection was donated by the New York Public Library, Division of Manuscripts and Archives, in 1988. It was removed from the Benjamin Tucker Papers.</p>
+	 </acqinfo> 
+	 <separatedmaterial>
+
+	 <p>These materials originally resided in the Benjamin Tucker Papers, held by the New York Public Library. The Bertha Johnson books, ephemera, and papers were separated from the Benjamin Tucker Papers and donated to the New York Academy of Medicine Library in 1988. The books donated have been cataloged individually and are part of our rare book collection.</p>
+	 </separatedmaterial>
+	 <relatedmaterial>
+	 <p>The Sophia Smith Collection at Smith College holds Bertha F. Johnson's papers, and the Labadie Collection of the University of Michigan has correspondence between Johnson and Agnes Inglis.</p>
+	 </relatedmaterial>
+  </archdesc>
+</ead>
