@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
-<!--<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">-->
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
-	id="mferd157e2" relatedencoding="MARC21">
+	id="mferd157e2" relatedencoding="MARC21"> 
   <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
 	 <eadid countrycode="us" mainagencycode="VVK">ARM-0005</eadid> 
 	 <filedesc> 
@@ -19,7 +19,7 @@
 		</publicationstmt>
 	 </filedesc> 
 <profiledesc>
-  <creation>Finding aid encoded by Rebecca Pou, <date normal="">.</date></creation>
+  <creation>Finding aid encoded by Rebecca Pou, <date normal="20140114">January 14, 2014.</date></creation>
   </profiledesc>	 
   </eadheader> 
   <archdesc level="collection"> 
@@ -34,11 +34,11 @@
 		  </physdesc> 
 		<unitid>Mss.arc</unitid> 
 		<repository encodinganalog="852"> 
-		  <corpname>New York Academy of Medicine Library. Malloch Rare Book Room.</corpname> </repository> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
 	 </did> 
 	 <prefercite encodinganalog="524"> 
 		<head>Preferred Citation</head> 
-		<p>Alexander E. Macdonald Papers and Photographs. Malloch Rare Book Room, New York Academy of Medicine Library.</p> 
+		<p>Alexander E. Macdonald Papers and Photographs. Rare Book Room, New York Academy of Medicine Library.</p> 
 	 </prefercite> 
 	 <bioghist encodinganalog="545"> 
 	<p>Alexander E. Macdonald (1845-1906), LL.B., M.D., was a Fellow of the New York Academy of Medicine and a prominent New York psychiatrist.  Born in Toronto, Dr. Macdonald was educated at the Toronto Model Grammar School and at Upper Canada College.  Although he began his medical studies at the University of Toronto, Dr. Macdonald moved to New York and ultimately received degrees in both medicine (M.D.) and law (LL. B.) from the University of the City of New York (now New York University) in 1870 and 1881, respectively.</p>
@@ -47,8 +47,49 @@
 <p>Over the course of his career, Dr. Macdonald held a number of academic posts.  In 1874, he was appointed lecturer on Medical Jurisprudence at New York University.  Subsequently, he became Professor of Psychological Medicine and Medical Jurisprudence, and was Emeritus Professor at NYU at the time of his death.</p>
 <p>Alexander E. Macdonald was married to Elizabeth Woodbury Barrett (of Portland, Maine) on July 10, 1883.  Together they had two children -- a son, Charles, and a daughter, Evelyn.  Dr. Macdonald died on December 7, 1906.</p>
  </bioghist> 
-	 <scopecontent encodinganalog="520"> 
-	 </scopecontent> 	  
+ 
+	<scopecontent encodinganalog="520"> 
+	<head>Scope and Content</head>
+		<p>The Alexander E. Macdonald Papers and Photographs, a collection that spans thirty-seven years, has been arranged into seven series:  (I) Business Records, (II) Printed Material, (III) Professional Material, (IV) Biographical and Personal Material, (V) Manuscripts, (VI) Newspaper Clippings, and (VII) Photographs.</p>
+	
+	
+	<scopecontent>
+	<head>Series I</head>
+		<p><emph render="bold">Business Records</emph> contains material generated during Dr. Macdonald's tenure as medical superintendent at the New York City Asylum for the Insane, Ward's Island, and general superintendent of the New York City Asylums.  The series is divided into four subseries including:  (a) <emph render="bold">Correspondence</emph> covering a wide range of institutional issues including, but not limited to, the purchase of goods and services; billing and account disputes; salary, wage and labor issues; construction and upkeep of building facilities; asylum conditions, practices and policies; inmate concerns; association and committee work; conference attendance; and legal issues; (b) <emph render="bold">Memoranda</emph> generated during the course of business on various topics including supplies; salaries and wages; and building facilities; (c) <emph render="bold">Asset Inventories</emph> for both the hospital and superintendent's residence; (d) <emph render="bold">Purchasing Records</emph> relating to the institutional acquisition of various goods and services; and (e) <emph render="bold">Other</emph> documentation including an architectural drawing and blueprint of building plans from Ward's Island.</p>
+	</scopecontent>	
+	
+	
+	<scopecontent>
+	<head>Series II</head>
+	<p><emph render="bold">Printed Material</emph> includes (a) <emph render="bold">Annual Reports</emph> from the Department of Public Charities and Correction, the Manhattan State Hospital and the State Commissioner in Lunacy; (b) <emph render="bold">Journal Reprints</emph>, including among other items a number of articles authored by Dr. Macdonald that appeared in the American Journal of Insanity; (c) <emph render="bold">Minutes</emph> of meetings of the Commissioners of Public Charities and Correction, the Medical Society of the County of New York and the State Commission in Lunacy; and (d) <emph render="bold">Other</emph> publications including articles; lectures; reports; asylum rules,  regulations and directories.</p>
+	</scopecontent>
+	
+	<scopecontent>
+	<head>Series III</head>
+	<p><emph render="bold">Professional Material</emph> is comprised of three subseries:  (a) <emph render="bold">Legal Documents</emph> which include briefs, transcripts of testimony and arguments, court orders and correspondence in a number of cases including, most notably, the Guiteau, Rhinelander and Stokes Will cases as well as the Investigation into the Management and Affairs of the New York City Insane Asylum, Ward's Island; (b) <emph render="bold">Memberships and Medical Conferences</emph> which include documentation pertaining to Dr. Macdonald's membership in various professional medical organizations and a range of correspondence, programs, newspaper clippings and ephemera related to his attendance of various medical conferences, including the 12th International Medical Congress in Moscow (1897), the British Medical Association Session in Edinburgh (1898), the 14th International Medical Congress in Madrid, Spain (1903) and the 15th International Medical Congress in Lisbon, Portugal (1906) ; and (c) <emph render="bold">Other</emph> material pertaining to Dr. Macdonald's professional endeavors including a collection of course tickets and curriculum announcements from the University of the City of New York.</p>
+	</scopecontent>
+	
+	<scopecontent>
+	<head>Series IV</head>
+	<p><emph render="bold">Biographical and Personal Material</emph> contains material relating to Dr. Macdonald's personal life, including correspondence with family and friends; financial information; marriage and citizenship papers; diplomas; membership information for social clubs to which Dr. Macdonald belonged and a host of ephemera, including menus, invitations, and business cards.</p>
+	</scopecontent>
+	
+	<scopecontent>
+	<head>Series V</head>
+	<p>The <emph render="bold">Manuscripts</emph> series contains (a) Dr. Macdonald's <emph render="bold">Bound Diaries and Writings</emph>, which are, for the most part, daily diaries as well as some student notes and notes on various medical subjects, case records, and patient property logs; (b) his <emph render="bold">Writings</emph>, which include both handwritten manuscripts and typescripts ofpapers, speeches, lectures, and presentations on a host of medical topics including rape, identity, malpractice, medical jurisprudence, homicide, and pregnancy, to name a few; and (c) <emph render="bold">Miscellaneous Notes</emph> which include a sizable number of lists, calculations and other scraps (many of which are not legible).</p>
+	</scopecontent>
+	
+	<scopecontent>
+	<head>Series VI</head>
+	<p><emph render="bold">Newspaper Clippings</emph> contains clippings from 1865 to 1906 on a host of issues ranging from the treatment of the insane; management of the New York institutions and investigations thereof; prominent legal cases relating to Dr. Macdonald, the asylums and/or patients; lunacy laws; as well as reports and reviews of Dr. Macdonald's speaking engagements at various dinners, receptions, and banquets.</p>
+	</scopecontent>
+	
+	<scopecontent>
+	<head>Series VII</head>
+	<p>The <emph render="bold">Photographs</emph> series includes both original photographs and reproductions of images of Dr. Macdonald and the tuberculosis tent city he designed at Ward’s Island, as well as photographs of his son, Charles, and other unidentified places and groups of individuals.</p>
+	</scopecontent> 
+
+	</scopecontent>	
 	 <controlaccess> 
 		<head>Index Terms</head> 
 		<p>This collection is indexed under the following headings in the catalog
@@ -76,10 +117,7 @@
 		 <unitid>Series I</unitid>
 		 <unittitle>Business Records</unittitle>
 		 </did>
-		 <scopecontent>
-		 <head>Scope and Content</head>
-		 <p><emph render="bold">Business Records</emph> contains material generated during Dr. Macdonald's tenure as medical superintendent at the New York City Asylum for the Insane, Ward's Island, and general superintendent of the New York City Asylums.  The series is divided into four subseries including:  (a) <emph render="bold">Correspondence</emph> covering a wide range of institutional issues including, but not limited to, the purchase of goods and services; billing and account disputes; salary, wage and labor issues; construction and upkeep of building facilities; asylum conditions, practices and policies; inmate concerns; association and committee work; conference attendance; and legal issues; (b) <emph render="bold">Memoranda</emph> generated during the course of business on various topics including supplies; salaries and wages; and building facilities; (c) <emph render="bold">Asset Inventories</emph> for both the hospital and superintendent's residence; (d) <emph render="bold">Purchasing Records</emph> relating to the institutional acquisition of various goods and services; and (e) <emph render="bold">Other</emph> documentation including an architectural drawing and blueprint of building plans from Ward's Island.</p>
-		 </scopecontent>
+		
 		 <c02 level="subseries">
 		 <did>
 		 <unitid>Subseries A</unitid>
@@ -572,10 +610,7 @@
 		 <unitid>Series II</unitid>
 		 <unittitle>Printed Material</unittitle>
 		 </did>
-		 <scopecontent>
-		 <head>Scope and Content</head>
-		 <p><emph render="bold">Printed Material</emph> includes (a) <emph render="bold">Annual Reports</emph> from the Department of Public Charities and Correction, the Manhattan State Hospital and the State Commissioner in Lunacy; (b) <emph render="bold">Journal Reprints</emph>, including among other items a number of articles authored by Dr. Macdonald that appeared in the American Journal of Insanity; (c) <emph render="bold">Minutes</emph> of meetings of the Commissioners of Public Charities and Correction, the Medical Society of the County of New York and the State Commission in Lunacy; and (d) <emph render="bold">Other</emph> publications including articles; lectures; reports; asylum rules,  regulations and directories.</p>
-		 </scopecontent>
+
 		 <c02 level="subseries">
 		 <did>
 		 <unitid>Subseries A</unitid>
@@ -1238,10 +1273,8 @@
 		 <unitid>Series III</unitid>
 		 <unittitle>Professional Material</unittitle>
 		 </did>
-		 <scopecontent>
-		 <head>Scope and Content</head>
-		 <p><emph render="bold">Professional Material</emph> is comprised of three subseries:  (a) <emph render="bold">Legal Documents</emph> which include briefs, transcripts of testimony and arguments, court orders and correspondence in a number of cases including, most notably, the Guiteau, Rhinelander and Stokes Will cases as well as the Investigation into the Management and Affairs of the New York City Insane Asylum, Ward's Island; (b) <emph render="bold">Memberships and Medical Conferences</emph> which include documentation pertaining to Dr. Macdonald's membership in various professional medical organizations and a range of correspondence, programs, newspaper clippings and ephemera related to his attendance of various medical conferences, including the 12th International Medical Congress in Moscow (1897), the British Medical Association Session in Edinburgh (1898), the 14th International Medical Congress in Madrid, Spain (1903) and the 15th International Medical Congress in Lisbon, Portugal (1906) ; and (c) <emph render="bold">Other</emph> material pertaining to Dr. Macdonald's professional endeavors including a collection of course tickets and curriculum announcements from the University of the City of New York.</p>
-		 </scopecontent>
+		 
+		 
 		 <c02 level="subseries">
 		 <did>
 		 <unitid>Subseries A</unitid>
@@ -1897,10 +1930,7 @@
 		 <unitid>Series IV</unitid>
 		 <unittitle>Biographical and Personal Material</unittitle>
 		 </did>
-		 <scopecontent>
-		 <head>Scope and Content</head>
-		 <p><emph render="bold">Biographical and Personal Material</emph> contains material relating to Dr. Macdonald's personal life, including correspondence with family and friends; financial information; marriage and citizenship papers; diplomas; membership information for social clubs to which Dr. Macdonald belonged and a host of ephemera, including menus, invitations, and business cards.</p>
-		 </scopecontent>
+		 
 				<c02 level="file">
 					<did>
 					<container label="Box" type="Box">8</container>
@@ -1983,10 +2013,7 @@
 		 <unitid>Series V</unitid>
 		 <unittitle>Manuscripts</unittitle>
 		 </did>
-		 <scopecontent>
-		 <head>Scope and Content</head>
-		 <p>The <emph render="bold">Manuscripts</emph> series contains (a) Dr. Macdonald's <emph render="bold">Bound Diaries and Writings</emph>, which are, for the most part, daily diaries as well as some student notes and notes on various medical subjects, case records, and patient property logs; (b) his <emph render="bold">Writings</emph>, which include both handwritten manuscripts and typescripts ofpapers, speeches, lectures, and presentations on a host of medical topics including rape, identity, malpractice, medical jurisprudence, homicide, and pregnancy, to name a few; and (c) <emph render="bold">Miscellaneous Notes</emph> which include a sizable number of lists, calculations and other scraps (many of which are not legible).</p>
-		 </scopecontent>
+		
 				 <c02 level="subseries">
 					<did>
 					<unitid>Subseries A</unitid>
@@ -2850,10 +2877,7 @@
 					 <unitid>Series VI</unitid>
 					 <unittitle>Newspaper Clippings</unittitle>
 					 </did>
-					 <scopecontent>
-					 <head>Scope and Content</head>
-					 <p><emph render="bold">Newspaper Clippings</emph> contains clippings from 1865 to 1906 on a host of issues ranging from the treatment of the insane; management of the New York institutions and investigations thereof; prominent legal cases relating to Dr. Macdonald, the asylums and/or patients; lunacy laws; as well as reports and reviews of Dr. Macdonald's speaking engagements at various dinners, receptions, and banquets.</p>
-					 </scopecontent>
+					 
 					 <arrangement>
 					 <p>Arranged chronologically.</p>
 					 </arrangement>
@@ -3227,7 +3251,7 @@
 	</dsc>	
 	 <userestrict encodinganalog="540"> 
 		<p>Requests for permission to quote from or publish any materials should
-		  be directed to the curatorial staff of the Malloch Rare Book Room in writing.</p> 
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
 	 </userestrict> 
 	 <acqinfo encodinganalog="541"> 
 		<head>Provenance</head> 
