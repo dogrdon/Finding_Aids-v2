@@ -211,7 +211,7 @@
                         </h4>
                     </li>
                     <li class="active"> <!-- Start overview on active by default -->
-                        <a href="#overview">Overview</a>
+                        <a href="#overview">Collection Summary</a>
                     </li>
                     <xsl:if test="$includeBioghistSection eq true()">
                         <li>
@@ -333,8 +333,9 @@
                         <div class="col-md-3">
                             <address>
                                    <strong>Repository</strong>
-                                   <br/>
+                                   <div>
                                    <xsl:apply-templates select="ead:archdesc[1]/ead:did[1]/ead:repository"/>
+                                   </div>
                             </address>
                             <xsl:if test="/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:notestmt[1]/ead:note/ead:p[1][starts-with(., 'Contact')]">
                                 <a href="{/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:notestmt[1]/ead:note/ead:p[1][starts-with(., 'Contact')]/ead:extref[1]/@xlink:href}"
@@ -923,8 +924,8 @@
                     <table class="table table-striped table-hover">
                         <xsl:choose>
                             <xsl:when test=".//ead:container">
-                                <col style="width:15%"/>
-                                <col style="width:85%"/>
+                                <col style="width:25%"/>
+                                <col style="width:75%"/>
                                 <thead>
                                     <tr>
                                         <th>Container</th>
@@ -1063,7 +1064,7 @@
         <!--<xsl:if test="@label">-->
             <!--<xsl:value-of select="concat('(', ., ')')"/>--> <!--NYAM MOD do not want this as repeats container number in parans-->
         <!--</xsl:if>-->
-        <br/> <span class="indenter"></span>
+        <!--<br/>--> <!--<span class="indenter"></span>--> &#160;&#160;
         <!-- uncomment, remove the break element above, and see the effect that this has on 
             Vincent Price Papers, series 5 !
         <xsl:if test="following-sibling::ead:container and (position() lt last())">

@@ -9,11 +9,11 @@ h2,
 }
 
 h1, .h1{
-  font-size: 25pt;
+  font-size: 20pt;
 }
 
 h2, .h2 {
-  font-size: 15pt;
+  font-size: 13pt;
   font-weight: bold;
 }
 
@@ -80,4 +80,13 @@ li.active ul li.active ul.nav{
 /* padding for secondary container elements */
 .indenter {
   padding-left: 8px;
+}
+
+/* reduce space for main sections*/
+.bs-docs-section + .bs-docs-section {
+    padding-top: 0px;
+}
+
+address {
+  margin-bottom: 0px;
 }
