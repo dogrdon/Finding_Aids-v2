@@ -179,9 +179,9 @@
             </div>
             <div class="container">
                 <div class="row"> 
-                    <span class="author">
+                    <!--<span class="author">
                         <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:author"/>
-                    </span>
+                    </span>-->
                 </div>  
             </div>
            
@@ -227,7 +227,7 @@
                     </xsl:if>
                     <xsl:if test="$includeUsingThisCollectionSection eq true()">
                         <li>
-                            <a href="#use">Using this Collection</a>
+                            <a href="#use">Administrative Info</a>
                         </li>
                     </xsl:if>
                     <xsl:if test="$includesDSC eq true()">
@@ -348,12 +348,13 @@
                     
                     <!--this should be accounted for in the CSS.  for now, I'm just adding an HTML break-->
                     <!--<br/>-->
-                    <xsl:apply-templates select="/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:titlestmt[1]/ead:sponsor[1]"/>
-                    <xsl:apply-templates select="ead:archdesc/ead:did/ead:note"/>
-                    <xsl:apply-templates select="ead:archdesc/ead:acqinfo | /ead:ead/ead:archdesc/ead:descgrp/ead:acqinfo "/>
+                    <!-- NYAM MOD - move this to admin section-->
+                    <!--<xsl:apply-templates select="/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:titlestmt[1]/ead:sponsor[1]"/>-->
+                    <!--<xsl:apply-templates select="ead:archdesc/ead:did/ead:note"/>-->
+                    <!--<xsl:apply-templates select="ead:archdesc/ead:acqinfo | /ead:ead/ead:archdesc/ead:descgrp/ead:acqinfo "/>-->
                     <!-- to make this next apply-templates useful, we'd need to add a template for materialspec that pulls out the @label attribute-->
-                    <xsl:apply-templates select="ead:archdesc/ead:did/ead:materialspec"/>
-                    <xsl:apply-templates select="ead:archdesc/ead:phystech"/>
+                    <!--<xsl:apply-templates select="ead:archdesc/ead:did/ead:materialspec"/>-->
+                    <!--<xsl:apply-templates select="ead:archdesc/ead:phystech"/>-->
                 </div>
                 <xsl:comment>  / .page-header  </xsl:comment>
             </div>
@@ -390,13 +391,20 @@
 
             <xsl:if test="$includeUsingThisCollectionSection eq true()">
                 <div class="bs-docs-section">
-                    <h2 id="use">Using this Collection</h2>
+                    <h2 id="use">Administrative Info</h2>
+                    <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:author"/><br/>
                     <xsl:apply-templates select="ead:archdesc/ead:accessrestrict | ead:archdesc/ead:descgrp/ead:accessrestrict"/>
                     <xsl:apply-templates select="ead:archdesc/ead:userestrict | ead:archdesc/ead:descgrp/ead:userestrict"/>
                     <xsl:apply-templates select="ead:archdesc/ead:prefercite  | ead:archdesc/ead:descgrp/ead:prefercite"/>
                     <xsl:apply-templates select="ead:archdesc/ead:did/ead:physloc | ead:archdesc/ead:descgrp/ead:physloc"/>
                     <xsl:apply-templates select="ead:archdesc/ead:originalsloc | ead:archdesc/ead:descgrp/ead:originalsloc"/>
                     <xsl:apply-templates select="ead:archdesc/ead:altformavail | ead:archdesc/ead:descgrp/ead:altformavail"/>
+                    <xsl:apply-templates select="/ead:ead/ead:eadheader[1]/ead:filedesc[1]/ead:titlestmt[1]/ead:sponsor[1]"/>
+                    <xsl:apply-templates select="ead:archdesc/ead:did/ead:note"/>
+                    <xsl:apply-templates select="ead:archdesc/ead:acqinfo | /ead:ead/ead:archdesc/ead:descgrp/ead:acqinfo "/>
+                    <!-- to make this next apply-templates useful, we'd need to add a template for materialspec that pulls out the @label attribute-->
+                    <xsl:apply-templates select="ead:archdesc/ead:did/ead:materialspec"/>
+                    <xsl:apply-templates select="ead:archdesc/ead:phystech"/>
                 </div>
                 <xsl:comment>  /use  </xsl:comment>
             </xsl:if>
@@ -565,6 +573,8 @@
     <xsl:template match="ead:head">
         <xsl:choose>
             <xsl:when test="parent::ead:bioghist and (. eq $bioghist-title)"/>
+            <!-- <xsl:when test="parent::ead:acqinfo and (. eq 'Provenance')"/>  don't show provenance title -->
+
             <xsl:otherwise>
                 <h3 class="head-info" id="{generate-id(.)}">
                     <xsl:apply-templates/>
