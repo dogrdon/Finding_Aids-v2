@@ -10,7 +10,7 @@
 	<filedesc> 
 		<titlestmt> 
 		  <!--TITLE OF FINDING AID-->
-		  <titleproper>David E. Rogers Collection</titleproper> 
+		  <titleproper>David E. Rogers Collection </titleproper> 
 		  <subtitle>1951-2007</subtitle> 
 		 <author>Collection processed and described by Rebecca Pou</author>
 		</titlestmt> 
@@ -64,7 +64,8 @@
 	 	<head>Container List</head>
 		<c01 level="series">
 		 <did>
-		 <unittitle/>
+		 	<unitid>Series 1</unitid>
+		 	<unittitle>David E. Rogers Collection</unittitle>
 		 </did>
 		 <scopecontent/>
 		 <arrangement/>

@@ -68,6 +68,7 @@
 	 	<head>Container List</head>
 		<c01 level="series">
 		 <did>
+		 	<unitid>Series 1</unitid>
 		 <unittitle>New York Medical Union</unittitle>
 		 </did>
 		<c02 level="file">

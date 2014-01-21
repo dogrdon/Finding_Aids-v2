@@ -100,6 +100,7 @@
 
 			<c02 level="subseries">
 			<did>
+			    <unitid>Subseries A</unitid>
 				<unittitle>Minutes</unittitle>
 			</did>
 			<c03 level="file">
@@ -169,6 +170,7 @@
 			</c02>	
 			<c02 level="subseries">
 				<did>
+				<unitid>Subseries B</unitid>
 				<unittitle>Executive Working Papers</unittitle>
 				</did>
 
@@ -279,6 +281,7 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
+				<unitid>Subseries C</unitid>
 				<unittitle>Membership</unittitle>
 				</did>
 			<c03 level="file">
@@ -316,6 +319,7 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
+				<unitid>Subseries D</unitid>
 				<unittitle>Publicity</unittitle>
 
 				</did>
@@ -338,6 +342,7 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
+				<unitid>Subseries E</unitid>
 				<unittitle>Miscellaneous</unittitle>
 				</did>
 			<c03 level="file">

@@ -63,6 +63,7 @@
 	 	<head>Container List</head>
 		<c01 level="series">
 		 <did>
+		 <unitid>Series 1</unitid>
 		 <unittitle>Riverside Practioners' Society Records</unittitle>
 		 </did>
 		<c02 level="file">
