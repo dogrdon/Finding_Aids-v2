@@ -171,7 +171,7 @@
                          <h1>
                              <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:titleproper"/>
                              <xsl:if test="ead:eadheader/ead:filedesc/ead:titlestmt/ead:subtitle">
-                                 <!--<xsl:text>: </xsl:text>-->
+                                 <xsl:text> </xsl:text>
                                  <xsl:apply-templates select="ead:eadheader/ead:filedesc/ead:titlestmt/ead:subtitle"/>
                              </xsl:if>
                          </h1>
