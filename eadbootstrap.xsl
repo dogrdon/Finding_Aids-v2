@@ -970,7 +970,10 @@
                     <xsl:attribute name="id">
                         <xsl:value-of select=" if ($locationOfIDs = 'c') then @id else translate(translate(translate(translate(translate(ead:did/ead:unittitle, ' ', '_'), &quot;,.&apos;&quot;, ''), '(', ''), ')', ''), '/', '')"/>
                     </xsl:attribute>
-                    <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
+                        
+                    <xsl:if test="ead:did/ead:unitid">    
+                        <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
+                    </xsl:if>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
@@ -997,7 +1000,9 @@
                     <xsl:attribute name="id">
                         <xsl:value-of select=" if ($locationOfIDs = 'c') then @id else translate(translate(translate(translate(translate(ead:did/ead:unittitle, ' ', '_'), &quot;,.&apos;&quot;, ''), '(', ''), ')', ''), '/', '')"/>
                     </xsl:attribute>
-                    <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
+                    <xsl:if test="ead:did/ead:unitid">
+                        <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
+                    </xsl:if>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
