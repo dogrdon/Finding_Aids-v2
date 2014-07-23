@@ -1193,7 +1193,7 @@
     </xsl:variable>
     
     
-    <xsl:variable name="NYAM-URL-start">http://nyam.waldo.kohalibrary.com/cgi-bin/koha/opac-search.pl?idx=subject&amp;q=</xsl:variable>
+    <xsl:variable name="NYAM-URL-start">http://catalog.nyam.org/cgi-bin/koha/opac-search.pl?idx=su&amp;q=</xsl:variable>
     <!--<xsl:variable name="LOC-URL-start">http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?db=local&amp;SA=</xsl:variable>
     <xsl:variable name="LOC-URL-end">&amp;SC=SUBJ&amp;CNT=25</xsl:variable>-->
     <xsl:variable name="ArchiveGrid-URL">http://beta.worldcat.org/archivegrid/?q=</xsl:variable>

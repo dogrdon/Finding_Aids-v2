@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="./eadbootstrap.xsl"?>
+<!--DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"-->
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"
+	id="mferd157e2" relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"> 
+	 <eadid countrycode="us" mainagencycode="VVK">ARC-0004</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <!--TITLE OF FINDING AID-->
+			<titleproper>Papers of the Charaka Club</titleproper> 
+			<subtitle>1898-2012</subtitle> 
+		 <author>Collection processed and described by Dorothy Truman.</author>
+		</titlestmt> 
+		<publicationstmt>
+            <date></date>
+		</publicationstmt>
+	 </filedesc> 
+<profiledesc>
+  <creation>Finding aid encoded by , <date normal="YYYYMMDD">.</date></creation>
+  </profiledesc>	 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<origination> 
+		  <corpname encodinganalog="110">Charaka Club</corpname> </origination>	
+		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
+		<unittitle encodinganalog="245">Papers of the Charaka Club</unittitle> 
+		<unitdate type="inclusive">1898-2012</unitdate> 
+		<physdesc><extent encodinganalog="300">17 boxes</extent></physdesc> 
+		<unitid>Mss.arc</unitid> 
+		<repository encodinganalog="852"> 
+		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
+	 </did> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Papers of the Charaka Club. Rare Book Room, New York Academy of Medicine Library.</p> 
+	 </prefercite> 
+	 <bioghist encodinganalog="545"> 
+	 	<p>The Charaka Club was founded in 1898.  A group of five doctors: Charles Dana, Joseph Collins, Ward A. Holden, Frederick Peterson, and Bernard Sachs wanted to create a group where they could discuss their interests outside medicine.  At first it was called the Medico-Historical Club, but in 1900 the name was changed to The Charaka Club after the legendary Indian physician who compiled a book of the ancient medical texts. The club still exists and meets 4 times a year.</p>
+	 	<p>In the early years the notices of meetings were “invitations” to a dinner hosted by a club member at his home.  After 1911 meetings were held at the Century Association or other clubs, but after 1923 the regular meeting place was The Coffee House Club. Since 1984 the club usually meets at the Century Association</p>
+	 	<p>At the club dinners various members presented papers on literature, art, and history, usually related to medical history.  Beginning in 1902 many of these papers were published in <emph render="italic">The Proceedings of the Charaka Club</emph>. Twelve volumes were produced, the last in 1988. </p>
+	 	<p>After World War II there was discussion about admitting to membership those who were not MDs. There was concern that the challenges of the post-war medical world might limit the time and leisure doctors had to prepare quality essays.  The possibility of dissolving the club was also discussed, but the decision was to continue.</p>
+	 </bioghist> 
+ 	<scopecontent encodinganalog="520"> 
+	<head>Scope and Content</head>
+ 		<p>The activities and interests of the notable physicians who made up the membership of Charaka club are reflected in these records.</p>
+ 		<p>The club created various committees, such as Membership and Communications, but there are almost no records of the work of the committees except perhaps through the minutes or executives’ correspondence.</p>
+ 		<p>The most informative minutes were kept by Archibald Malloch, 1935-1949.  The early minutes are often just notes collected and pasted in a scrapbook and give little information of what transpired at the meetings. This is especially true of minutes from 1962-1989.  The secretary gave only a précis of the talk given at the meeting, but little or no information about the business or membership issues that were discussed.</p>
+ 		<p>The problem with the minutes is in some ways compensated for by the correspondence of various officers and members. Those of special interest are described in the inventory.</p>
+ 		<p>The principle purpose of the club was to share the members’ interests outside of medicine.  The talks given by the members at the meetings ranged wildly in subject matter and the club published the best of these talks in <emph render="italic">The Proceedings</emph> beginning in 1902.  The last volume was published in 1988 and it will probably be the last as the club is considering circulating the texts electronically.</p>	
+ 		<p>There are four boxes of texts of many of the talks given after 1925.  Some are the texts of talks not included in <emph render="italic">The Proceedings</emph>.</p>
+	</scopecontent>	
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of The New York Academy of Medicine Library. Researchers desiring materials
+		  about related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <corpname source="lcnaf" encodinganalog="610">Charaka Club</corpname> 
+		  <subject source="lcsh" encodinganalog="650">Medicine -- New York (State) -- New York -- Societies, etc.</subject>
+		  <subject source="lcsh" encodinganalog="650">Medicine -- History.</subject>		 
+		  <subject source="lcsh" encodinganalog="650"></subject>
+		  <corpname source="lcnaf" encodinganalog="610"></corpname>
+		  <corpname source="lcnaf" encodinganalog="610"></corpname>	  
+		</controlaccess> 
+	 </controlaccess> 
+	 <did>
+<unitid/>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+</did>
+<dsc>
+	<c01 level="series">
+		<did><unittitle>Organization and Administration</unittitle></did>
+
+		
+<c02 level="file">
+<did>
+<unittitle>Lists of officers, members, and By-laws</unittitle>
+<unitdate>1912-1993</unitdate>
+<physdesc>
+<extent>9 F</extent>
+</physdesc>
+<note>
+<p>Some gaps; Printed booklets often with annotations</p>
+</note>
+<container label="Box" type="Box">1</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Committee Report re: membership and conduct of meetings
+</unittitle>
+<unitdate>1953</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">1</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Meetings</unittitle>
+		</did>
+	<c02 level="file">
+<did>
+<unittitle>Notices / Invitations to dinners or meetings</unittitle>
+<unitdate>1907-2012</unitdate>
+<physdesc>
+<extent>13 F</extent>
+</physdesc>
+<note>
+<p>
+Arranged by secretary; some gaps, may include titles of papersto be given, proposed candidates; many have no year; In 1950s RSVP to NYAM. In 1990s included lists of attendees, records of dues paid
+</p>
+</note>
+<container label="Box" type="Box">1</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Agendas / Schedules meetings and speakers</unittitle>
+<unitdate>1928-1209</unitdate>
+<physdesc>
+<extent>4 F</extent>
+</physdesc>
+<note>
+<p>
+Some contain date of Safari and copies of invitations to dinner meetings; 1963-1967. Includes solicitations of papers
+</p>
+</note>
+<container label="Box" type="Box">2</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Attendance records</unittitle>
+<unitdate>1921-2010</unitdate>
+<physdesc>
+<extent>8 F</extent>
+</physdesc>
+<note>
+<p>
+1921-1927, 1932-1944, 1937-1939,1948-1966, 1971-1979, 1989-1994, 2010
+</p>
+</note>
+<container label="Box" type="Box">2</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Number of meetings attended each year</unittitle>
+<unitdate>1991-1994</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">2</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers re: Safaris</unittitle>
+<unitdate>1951-2011</unitdate>
+<physdesc>
+<extent>10 F</extent>
+</physdesc>
+<note>
+<p>Incomplete; Includes correspondence about beginning “Safaris” may also include announcements, invitations, reports, attendance, and charges; some photographs.</p>
+<p>See also: Correspondence and Minutes</p>
+</note>
+<container label="Box" type="Box">2</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Minutes</unittitle>
+		</did>
+	<c02 level="file">
+<did>
+<unittitle>Minutes</unittitle>
+<unitdate>1898-2012</unitdate>
+<physdesc>
+<extent>1 B</extent>
+</physdesc>
+<note>
+<p>
+	With gaps; Includes a printed pamphlet <emph render="italic">The Palimpsest</emph> 1904, other years also in pamphlet form; minutes 1935-1949 by Archibald Malloch have originals and carbons; no minutes for 1959-1961; Grant Sanger’s minutes 1949-1988 are summaries of talks given but little or no reports of club business; 1994-2011 no minutes.
+</p>
+</note>
+<container label="Box" type="Box">3</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Minutes</unittitle>
+<unitdate>1902-1934</unitdate>
+<physdesc>
+<extent>1 V</extent>
+</physdesc>
+<note>
+<p>Largely hand written notes pasted in scrapbook</p>
+</note>
+<container label="Box" type="Box">4</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Correspondence</unittitle>
+			<note>
+				<p>Correspondence may also include: Invitations and acceptances of membership; replies re: attendance at meetings, offers to give papers; matters re: <emph render="italic">Proceedings</emph>; also letters from widows and family members of deceased members.
+				</p>
+			</note>
+		</did>
+	<c02 level="file">
+<did>
+<unittitle>Miscellaneous correspondence with NYAM</unittitle>
+<unitdate>1912-1959</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Dr. Camac</unittitle>
+<unitdate>1908, 1920-1927</unitdate>
+<physdesc>
+<extent>6 F</extent>
+</physdesc>
+<note>
+<p>
+	Includes regrets about attending meetings; much is about publication of <emph render="italic">Proceedings</emph>; One folder has letters with no year date
+</p>
+</note>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Letter to Dr. Holden from Grace R. Osler</unittitle>
+<unitdate>1920</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Letter to Dr. Dana from Frederick Tillney</unittitle>
+<unitdate>1925</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Re: Dr. Dana's resignation from Board of Neurological Institute
+</p>
+</note>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Archibald Malloch</unittitle>
+<unitdate>1928-1949</unitdate>
+<physdesc>
+<extent>3 F</extent>
+</physdesc>
+<note>
+<p>Includes some letters re: NYAM matters, and re: publication of <emph render="italic">Proceedings</emph></p>
+</note>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Drs. Gerster and Rake</unittitle>
+<unitdate>1950-1956</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Miscellaneous Correspondence,</unittitle>
+<unitdate>1955-1961</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Claude Heaton</unittitle>
+<unitdate>1960-1962</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Grant Sanger</unittitle>
+<unitdate>1970-1989</unitdate>
+<physdesc>
+<extent>3 F</extent>
+</physdesc>
+<note>
+<p>General club business</p>
+</note>
+<container label="Box" type="Box">5</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Correspondence of Grant Sanger Re: Dr. Dana’s portrait
+</unittitle>
+<unitdate>1978</unitdate>
+<physdesc>
+<extent>1F</extent>
+</physdesc>
+<note>
+<p>
+Including papers about condition and possible conservation; also appraisals and plan to display this and portraits of other founders at club’s 90th anniversary in 1988.
+</p>
+</note>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Correspondence of Grant Sanger Re: correspondence of Don Fawcett
+</unittitle>
+<unitdate>1979-19??</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Largely re: descriptions of his Fawcett’s work and life in Africa
+</p>
+</note>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Correspondence of Grant Sanger Letter from George Humphries re: Osler
+</unittitle>
+<unitdate>1985</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Analyzing and interpreting A. Malloch’s notes on the death of Sir William Osler. Published in Osler Library Newsletter #47 October 1984
+</p>
+</note>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Correspondence of Grant Sanger Correspondence re: 90th anniversary
+</unittitle>
+<unitdate>1988</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+See also files on membership for texts of biographies of founding members and others.
+</p>
+</note>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Goodwin Breinin</unittitle>
+<unitdate>1990-1994</unitdate>
+<physdesc>
+<extent>2 F</extent>
+</physdesc>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Correspondence of Andrew Frantz</unittitle>
+<unitdate>1995-2002</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Miscellaneous papers of John Truman</unittitle>
+<unitdate>1988-2011</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Includes correspondence, Jan. 2010 booklet with minutes and reports
+</p>
+</note>
+<container label="Box" type="Box">6</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Membership</unittitle>
+			<note>
+				<p>See Also: Section on Organization for Booklets with lists of members</p>
+				<p>See Also: Financial Section for records of dues paid</p>
+				<p>See Also: Correspondence for invitations to membership, replies from candidates, and resignations</p> 
+				<p>See Also: Attendance sheets</p>
+			</note>
+		</did>
+	<c02 level="file">
+<did>
+<unittitle>Membership / Admissions Committee reports</unittitle>
+<unitdate>1950-1959</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Nominations for Members</unittitle>
+<unitdate>1990-1993</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Membership Lists</unittitle>
+<unitdate>1919-1977, 2003, 2012</unitdate>
+<physdesc>
+<extent>7 F</extent>
+</physdesc>
+<note>
+<p>With gaps, some with contact information</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Membership Lists including spouses</unittitle>
+<unitdate>1998-2004</unitdate>
+<physdesc>
+<extent>2 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Former members died or resigned</unittitle>
+<unitdate>1953</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers re: dinner honoring Dr. William Osler</unittitle>
+<unitdate>1905</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+	Program and photograph of the bronze plaque/medal presented to Dr. Osleron this occasion. Full description of this event is in Vol. II of the <emph render="italic">Proceedings</emph>
+</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Booklet from Annual meeting with quotations appropriate for members
+</unittitle>
+<unitdate>1910</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers re: 25th anniversary celebration</unittitle>
+<unitdate>1923</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Includes program with minutes, letters, invitations, labels for exhibits
+</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Toast to R. Tait McKenzie</unittitle>
+<unitdate>1938</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers of and about Peyton Rouse</unittitle>
+<unitdate>1960-1975</unitdate>
+<physdesc>
+<extent>4 F</extent>
+</physdesc>
+<note>
+<p>
+Found in papers deposited with Charaka papers in 2005. They probably relate to Joseph Blumenthal, Rouse’s friend and neighbor in Cornwall, CT, and Include some correspondence; also reprints, and obituaries
+</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>CVs</unittitle>
+<unitdate>1994, 1996</unitdate>
+<physdesc>
+<extent>2 F</extent>
+</physdesc>
+<note>
+<p>Clyde Parker 1994, Jonathan E. Rhoads</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Biographies of various Charakans</unittitle>
+<unitdate>1988</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Prepared for 90th anniversary</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers re: dinner honoring Andrew Frantz</unittitle>
+<unitdate>2010</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Photographs</unittitle>
+<unitdate>nd - 2010</unitdate>
+<physdesc>
+<extent>4 F</extent>
+</physdesc>
+<note>
+<p>
+Portrait negatives of Frederick Peterson, Ward A. Holden, and Archibald Malloch; also candid pictures from meetings
+</p>
+</note>
+<container label="Box" type="Box">7</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Memorials / Obituaries</unittitle>
+<unitdate>1919-1952</unitdate>
+<physdesc>
+<extent>½ B</extent>
+</physdesc>
+<note>
+<p>Alphabetical order; list available</p>
+</note>
+<container label="Box" type="Box">8</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Publications: <emph render="italic">Proceedings</emph> and <emph render="italic">History</emph></unittitle>
+			<note>
+				<p>Volumes of Proceedings were published in 1902, 1906, 1910, 1916, 1919, 1925, 1931, 1935, 1938, and 1988</p>
+				<p>See also: Correspondence files</p>
+			</note>
+		</did>
+		
+<c02 level="file">
+<did>
+<unittitle>Miscellaneous papers</unittitle>
+<unitdate>1906-1988</unitdate>
+<physdesc>
+<extent>1 B</extent>
+</physdesc>
+
+<note>
+<p>
+Most of these files originated with Archibald Malloch; they include correspondence with publishers, authors of papers, orders for copies, etc
+</p>
+</note>
+<container label="Box" type="Box">9</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Communications Committee</unittitle>
+<unitdate>1944-1959</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+	Correspondence, questionnaire, and list of all papers given 1944-1959. Concerns about publishing <emph render="italic">Proceedings</emph>.
+</p>
+</note>
+<container label="Box" type="Box">10</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Miscellaneous papers re: publications</unittitle>
+<unitdate>1926-1979.</unitdate>
+<physdesc>
+<extent>4 F</extent>
+</physdesc>
+<note>
+<p>
+Correspondence, evaluation of articles for possible publication
+</p>
+</note>
+<container label="Box" type="Box">10</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+	<unittitle>Notes for <emph render="italic">History of the Charaka Club</emph></unittitle>
+<unitdate>1978</unitdate>
+<physdesc>
+<extent>3 F</extent>
+</physdesc>
+<container label="Box" type="Box">10</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Texts of talks / papers</unittitle>
+<unitdate>1925-2009</unitdate>
+<physdesc>
+<extent>4 B</extent>
+</physdesc>
+<note>
+<p>Alphabetical and chronological lists available.</p>
+</note>
+<container label="Box" type="Box">14-15</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Financial</unittitle>
+			<note>
+				<p>
+					Bank Statements, cancelled checks, etc. have been discarded. List available
+				</p>
+			</note>
+		</did>
+	
+	<c02 level="file">
+<did>
+<unittitle>Financial Statements</unittitle>
+<unitdate>1938-1987</unitdate>
+
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Balance Sheet</unittitle>
+<unitdate>1990-1994</unitdate>
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Pages from Account Book</unittitle>
+<unitdate>1990</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Record of dues payments</unittitle>
+<unitdate>1972-2000</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<p>With gaps</p>
+
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Cash Receipts</unittitle>
+<unitdate>1966-1967</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Check list of dues and dinner payments</p>
+</note>
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Bank Correspondence</unittitle>
+<unitdate>1953-2001</unitdate>
+<physdesc>
+<extent>4 F</extent>
+</physdesc>
+<note>
+<p>Re: officers signatures, and Dr. Sanger’s estate</p>
+</note>
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Bills and Receipts</unittitle>
+<unitdate>1973, 1989</unitdate>
+<note>
+<p>Includes notes for clerical expenditures</p>
+</note>
+<container label="Box" type="Box">15</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Miscellany</unittitle>
+		</did>
+	<c02 level="file">
+<did>
+<unittitle>Small card with Charaka seal</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Possibly from menu</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Menus</unittitle>
+<unitdate>1906, 1910</unitdate>
+<physdesc>
+<extent>2 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Rooster print / engraving</unittitle>
+<unitdate>1914</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Probably used on menus and place cards</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Program mockup for meeting</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Fabricious ; cover has caricature and name, Dr. Holden
+</p>
+</note>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Dr. Dan’s Charaka Balm</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>By Dr. Allen McLane Hamilton</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Papers re: trip to Boston for meeting</unittitle>
+<unitdate>1915</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Book Stamp</unittitle>
+<unitdate>1915?</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+	<p>For Dr. George Walton as author of <emph render="italic">Peg Along</emph></p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Music</unittitle>
+<unitdate>1998-1925</unitdate>
+<physdesc>
+<extent>3 F</extent>
+</physdesc>
+<note>
+<p>
+Includes Songs for male voices, notes By Jerome B. Webster on Chinese music, street cries with German texts, notes on fragment of envelope
+</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Typescripts of texts Horace and of The Venerable Bede
+</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Possibly from Dr. Dana</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Notes etc. for talk on writers on angling</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Text of talk by Warren Powers Laird on Willard Fillmore
+</unittitle>
+<unitdate>1940</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Given in Philadelphia at Pennsylvania Society for the Order the Founders and Patriots of America
+</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Summa Cum Laude</unittitle>
+<unitdate>1946?</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Toast by George Humpheys to Allen Whipple and his surgical team on his retirement, 3 are Charakans
+</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Images of “Fortune”</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Possibly illustrations for a talk</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Biography of Tracy Jackson Putnam</unittitle>
+<unitdate>1988</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>Article from journal</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Unattributed poetry</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Samples of Charaka stationery</unittitle>
+<unitdate>n.d.</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Covers / envelopes from miscellaneous letters</unittitle>
+<unitdate>1925-1984</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Duplicates of various early printed items</unittitle>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+	</c01>
+	<c01 level="series">
+		<did>
+			<unittitle>Miscellany: Booklets</unittitle>
+		</did>
+	<c02 level="file">
+<did>
+	<unittitle><emph render="italic">Syphilis: poeme en trios chants</emph></unittitle>
+<unitdate>1848</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>By Barthelemy</p>
+<p>Fragile condition</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+	Reprint of article by George Dock on editions of <emph render="italic">Rosa Anglica</emph> of John Gaddesden (1492)
+</unittitle>
+<unitdate>1907</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Booklet of verse re: members for annual meeting</unittitle>
+<unitdate>1910</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Booklet of Appreciation</unittitle>
+<unitdate>1916</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+By Dr. Charles L. Dana; thanking each member of the club for his portrait that the club had commissioned and had given to NYAM
+</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Booklet of Poems</unittitle>
+<unitdate>1933</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+	<p><emph render="italic">Another Spring</emph> by Marie Falconer</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Wax impressions of the seal on the signet ring with supporting papers
+</unittitle>
+<unitdate>1925</unitdate>
+<physdesc>
+<extent>1 F</extent>
+</physdesc>
+<note>
+<p>
+Wax impression; booklet explaining origin of ring and purpose of wax impression. Given to Charaka archives by George H Walton who had had the ring made. Poem describing seal By Dr. Walton. Copy of letter of Dr. Walton to Dr. Camac.</p>
+<p>Charaka Signet Ring was designed and commissioned by Dr. George H. Walton. It was passed from President to President. Some minutes before 1960 report the ceremony of passing the ring to the new president. There is a gap in the minutes for 1959-1960 and the next minutes make no mention of the passing of the ring. The question of what happened to the ring was raised in 1970.
+</p>
+</note>
+<container label="Box" type="Box">16</container>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>The Ola</unittitle>
+<physdesc>
+<extent>1 item</extent>
+</physdesc>
+<note>
+<p>
+Manuscript of Notes of Indian Medicine written on strips of palm leaves. Strips are stacked and covered with decorated wooden boards; it opens fan-like. Gift of Casey A. Wood 1926</p>
+<p>The library has several of these also the gift of Dr. Wood. This one belongs to the Charaka and no record has been found that it was given to NYAM.</p>
+</note>
+<container label="Box" type="Box">17</container>
+</did>
+</c02>
+	</c01>
+</dsc>
+	 <userestrict encodinganalog="540"> 
+		<p>Requests for permission to quote from or publish any materials should
+		  be directed to the curatorial staff of the Rare Book Room in writing.</p> 
+	 </userestrict> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Provenance</head> 
+		<p>On deposit by the Charaka Club.</p>
+	 </acqinfo> 
+  </archdesc>
+</ead>

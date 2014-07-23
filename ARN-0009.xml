@@ -11,7 +11,7 @@
 		<titlestmt> 
 		  <!--TITLE OF FINDING AID-->
 		  <titleproper>New York Ophthalmological Society Records</titleproper> 
-		  <subtitle>1864-2007</subtitle> 
+		  <subtitle>1864-2012</subtitle> 
 		 <author>Collection processed and described by Rebecca Pou</author>
 		</titlestmt> 
 		<publicationstmt>
@@ -23,6 +23,7 @@
   </profiledesc>	 
 	<revisiondesc>
 	<change>Addition of minutes 2002, 2004, and 2012 made <date normal="20130111">January 11, 2013</date>.</change>
+	<change>Error in title corrected <date normal="20140522">May 22, 2014</date></change>
 	</revisiondesc>
   </eadheader> 
   <archdesc level="collection"> 
@@ -32,7 +33,7 @@
 		  <corpname encodinganalog="110">New York Ophthalmological Society</corpname> </origination>	
 		<!-- UNITTITLE HERE = TITLE OF COLLECTION -->
 		<unittitle encodinganalog="245">New York Ophthalmological Society Records</unittitle> 
-		<unitdate type="inclusive">1864-2007</unitdate> 
+		<unitdate type="inclusive">1864-2012</unitdate> 
 		<physdesc> <extent encodinganalog="300">2 linear feet (2 cartons)</extent>
 		  </physdesc> 
 		<unitid>Mss.arc</unitid> 

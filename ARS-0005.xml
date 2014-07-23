@@ -12,14 +12,14 @@
 		  <!--TITLE OF FINDING AID-->
 		  <titleproper>Street Guides</titleproper> 
 			<subtitle>1852-1954</subtitle> 
-		 <author></author>
+			<author>Collection processed and described by Rebecca Pou.</author>
 		</titlestmt> 
 		<publicationstmt>
             <date>2014</date>
 		</publicationstmt>
 	 </filedesc> 
 <profiledesc>
-  <creation>Finding aid encoded by Rebecca Pou, <date normal="">.</date></creation>
+	<creation>Finding aid encoded by Rebecca Pou, <date normal="20140416">April 16, 2014.</date></creation>
   </profiledesc>	 
   </eadheader> 
   <archdesc level="collection"> 
@@ -29,9 +29,9 @@
 		<unittitle encodinganalog="245">Street Guides</unittitle> 
 	 	<unitdate type="inclusive">1852-1954</unitdate> 
 	 	<unitdate type="bulk">1905-1954</unitdate> 
-		<physdesc><extent encodinganalog="300"></extent>
+		<physdesc><extent encodinganalog="300">30 items</extent>
 		  </physdesc> 
-		<unitid>Mss.arc</unitid> 
+		<unitid>RBS.109</unitid> 
 		<repository encodinganalog="852"> 
 		  <corpname>New York Academy of Medicine Library. Rare Book Room.</corpname> </repository> 
 	 </did> 
@@ -41,7 +41,7 @@
 	 </prefercite> 
 	 <bioghist encodinganalog="545"> 
 	 <head>Historical Statement</head>
-		<p>Street and city guides were distributed by doctors as a means to advertise their medical services. Many of the practices specialized in men's health and sexually transmitted disesases.</p>
+		<p>Street and city guides were distributed by doctors as a means to advertise their medical services. Many of the practices specialized in men's health and sexually transmitted diseases.</p>
 	 </bioghist> 
 	 <scopecontent encodinganalog="520"> 
 		<head>Scope and Content</head> 
@@ -55,21 +55,20 @@
 		  headings.</p> 
 		<controlaccess> 
 		  <subject source="lcsh" encodinganalog="650">Streets -- Illinois -- Chicago -- Guidebooks</subject> 
-		  <subject source="lcsh" encodinganalog="651">New York (N.Y.) -- Guidebooks</subject>
+		  
 		  <subject source="lcsh" encodinganalog="650">Streets -- Colorado -- Denver -- Guidebooks</subject>	
-			<subject source="lcsh" encodinganalog="650">Streets -- Missouri -- Saint Louis -- Guidebooks</subject>
-		  <subject source="lcsh" encodinganalog="650">Streets -- Ohio -- Youngstown -- Guidebooks</subject>		
+			<subject source="lcsh" encodinganalog="651">New York (N.Y.) -- Guidebooks</subject>
 			<subject source="lcsh" encodinganalog="650">Streets -- Pennsylvania -- Philadelphia -- Guidebooks</subject>
 			<subject source="lcsh" encodinganalog="651">Philadelphia (Pa.) -- Guidebooks</subject>
+			<subject source="lcsh" encodinganalog="650">Streets -- Missouri -- Saint Louis -- Guidebooks</subject>
+		  <subject source="lcsh" encodinganalog="650">Streets -- Ohio -- Youngstown -- Guidebooks</subject>		
 			<subject source="lcsh" encodinganalog="650">Transportation -- Pennsylvania -- Philadelphia -- Guidebooks</subject>
-			<subject source="mesh" encodinganalog="650">Sexually transmitted dieseases -- therapy -- advertisements</subject>
+			<subject source="mesh" encodinganalog="650">Sexually transmitted diseases -- therapy -- advertisements</subject>
 			<subject source="lcsh" encodinganalog="650">Sexually transmitted diseases -- treatment -- advertisements</subject>
-			
-			<subject source="lcsh" encodinganalog="655">Books printed as advertisements</subject>
-			
-			
-		  <corpname source="lcnaf" encodinganalog="710"></corpname>
-		  <persname source="lcnaf" encodinganalog="600"></persname> 	  
+			<subject source="mesh" encodinganalog="650">Diseases -- therapy -- advertisements</subject>
+			<subject source="lcsh" encodinganalog="650">Diseases -- treatment -- advertisements</subject>
+			<subject source="rbgenr" encodinganalog="655">Books printed as advertisements</subject>
+			  
 		</controlaccess> 
 	 </controlaccess> 
 	 <dsc type="combined">
