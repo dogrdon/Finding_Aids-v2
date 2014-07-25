@@ -3,3 +3,4 @@ all_eads.master/
 Saxonce/
 eadbootstrap-boot
 documentation/
+*.html
