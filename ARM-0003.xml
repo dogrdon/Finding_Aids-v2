@@ -111,7 +111,6 @@
 		 </scopecontent>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries A</unitid>
 				<unittitle>Cost of Medical Care</unittitle>
 				</did>
 				<c03 level="file">
@@ -165,7 +164,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries B</unitid>
 				<unittitle>Committe on the Costs of Medical Care</unittitle>
 				</did>
 			 	<c03 level="file">
@@ -189,7 +187,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries C</unitid>
 				<unittitle>Ability to Pay</unittitle>
 				</did>
 				<c03 level="file">
@@ -201,7 +198,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries D</unitid>
 				<unittitle>Income and Expenditures in US</unittitle>
 				</did>
 				<c03 level="file">
@@ -219,7 +215,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries E</unitid>
 				<unittitle>Social Security</unittitle>
 				</did>
 				<c03 level="file">
@@ -263,7 +258,6 @@
 			 </c02>
 			 <c02 level="subseries">
 			 	<did>
-			    <unitid>Subseries F</unitid>
 				<unittitle>Health Insurance</unittitle>
 				</did>
 				<c03 level="file">
@@ -275,7 +269,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-			    <unitid>Subseries G</unitid>
 				<unittitle>Listings and Descriptions of Certain Health Insurance Plans</unittitle>
 				</did>
 				<c03 level="file">
@@ -321,7 +314,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries H</unitid>
 				<unittitle>Bibliography on Health Insurance</unittitle>
 				</did>
 				<c03 level="file">
@@ -333,7 +325,6 @@
 		 	</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries I</unitid>
 				<unittitle>Dean Clark Report - Health Insurance Plans</unittitle>
 				</did>
 				<c03 level="file">
@@ -345,7 +336,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries J</unitid>	
 				<unittitle>Blue Cross - Blue Shield</unittitle>
 				</did>
 				<c03 level="file">
@@ -363,7 +353,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries K</unitid>
 				<unittitle>Medical Societies</unittitle>
 				</did>
 				<c03 level="file">
@@ -387,7 +376,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-				<unitid>Subseries L</unitid>
 				<unittitle>Insurance Companies</unittitle>
 				</did>
 				<c03 level="file">
@@ -417,7 +405,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries M</unitid>
 				<unittitle>Industrial Insurance</unittitle>
 				</did>
 				<c03 level="file">
@@ -435,7 +422,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries N</unitid>
 				<unittitle>Cooperatives</unittitle>
 				</did>
 				<c03 level="file">
@@ -480,7 +466,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries O</unitid>
 				<unittitle>Comprehensive Health Insurance Prepayment Plans</unittitle>
 				</did>
 				<c03 level="file">
@@ -523,7 +508,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries P</unitid>
 				<unittitle>Labor - General Data on Health Insurance Plans</unittitle>
 				</did>
 				<c03 level="file">
@@ -634,7 +618,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries Q</unitid>
 				<unittitle>National Health Insurance - Pamphlets and Articles</unittitle>
 				</did>
 				<c03 level="file">
@@ -664,7 +647,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries R</unitid>
 				<unittitle>Health Security Through National Health Program</unittitle>
 				</did>
 				<c03 level="file">
@@ -702,7 +684,6 @@
 			</c02>
 			<c02 level="subseries">
 				<did>
-					<unitid>Subseries S</unitid>
 				<unittitle>Medical Sociology</unittitle>
 				</did>
 				<c03 level="file">
