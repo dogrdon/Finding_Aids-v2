@@ -975,14 +975,20 @@
                         <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
                     </xsl:if>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
+                    <xsl:if test="ead:did/ead:unitdate"> 
+                    - <xsl:apply-templates select="ead:did/ead:unitdate"/>
+                    </xsl:if>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
                         <small>
                             <xsl:apply-templates select="ead:did/ead:physdesc" mode="series-header"/>
                         </small>
+                        <br/>
                     </xsl:if>
+                    
+                    
                 </h3>
-                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid)"/>
+                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid | ead:did/ead:unitdate)"/>
                 <xsl:apply-templates select="ead:* except (ead:did | ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12)"/>
                 <!-- group and go through the next level of components with the following called template -->
                 <xsl:if test="ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12">
@@ -1004,14 +1010,18 @@
                         <xsl:apply-templates select="ead:did/ead:unitid"/><xsl:text>: </xsl:text>
                     </xsl:if>
                     <xsl:apply-templates select="ead:did/ead:unittitle"/>
+                    <xsl:if test="ead:did/ead:unitdate">
+                     - <xsl:apply-templates select="ead:did/ead:unitdate"/>
+                    </xsl:if>
                     <xsl:if test="ead:did/ead:physdesc">
                         <br/>
                         <small>
                             <xsl:apply-templates select="ead:did/ead:physdesc" mode="series-header"/>
                         </small>
+                        <br/>
                     </xsl:if>
                 </h4>
-                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid)"/>
+                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid | ead:did/ead:unitdate)"/>
                 <xsl:apply-templates select="* except (ead:did | ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12)"/>
                 <!-- group and go through the next level of components with the following called template -->
                 <xsl:if
@@ -1043,6 +1053,9 @@
                     <a id="{ead:did/ead:unittitle/@id}"/>
                 </xsl:if>
                 <xsl:apply-templates select="ead:did/ead:unittitle"/>
+                <xsl:if test="ead:did/ead:unitdate"> 
+                - <xsl:apply-templates select="ead:did/ead:unitdate"/>
+                </xsl:if>
                 <xsl:if test="ead:did/ead:unitid">
                     <br/> 
                     <xsl:apply-templates select="ead:did/ead:unitid"/>
@@ -1050,9 +1063,10 @@
                 <xsl:if test="ead:did/ead:physdesc">
                     <br/>
                     <xsl:apply-templates select="ead:did/ead:physdesc"/>
+                    <br/>
                 </xsl:if>
                 <!-- does this work for all of the container lists, or will I need to add a break element before each?-->
-                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid | ead:did/ead:container)"/>
+                <xsl:apply-templates select="ead:did/ead:* except (ead:did/ead:unittitle | ead:did/ead:physdesc | ead:did/ead:unitid | ead:did/ead:unitdate | ead:did/ead:container)"/>
                 <xsl:apply-templates select="* except (ead:did | ead:c | ead:c02 | ead:c03 | ead:c04 | ead:c05 | ead:c06 | ead:c07 | ead:c08 | ead:c09 | ead:c10 | ead:c11 | ead:c12)"/>
             </td>
         </tr>

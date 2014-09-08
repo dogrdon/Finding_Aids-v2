@@ -19,7 +19,7 @@
 		</publicationstmt>
 	 </filedesc> 
 <profiledesc>
-  <creation>Finding aid encoded by , <date normal="YYYYMMDD">.</date></creation>
+	<creation>Finding aid encoded by by Rebecca Pou, <date normal="YYYYMMDD">.</date></creation>
   </profiledesc>	 
   </eadheader> 
   <archdesc level="collection"> 
@@ -85,7 +85,7 @@
 <unittitle>Lists of officers, members, and By-laws</unittitle>
 <unitdate>1912-1993</unitdate>
 <physdesc>
-<extent>9 F</extent>
+<extent>9 Folders</extent>
 </physdesc>
 <note>
 <p>Some gaps; Printed booklets often with annotations</p>
@@ -100,7 +100,7 @@ Committee Report re: membership and conduct of meetings
 </unittitle>
 <unitdate>1953</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">1</container>
 </did>
@@ -115,11 +115,11 @@ Committee Report re: membership and conduct of meetings
 <unittitle>Notices / Invitations to dinners or meetings</unittitle>
 <unitdate>1907-2012</unitdate>
 <physdesc>
-<extent>13 F</extent>
+<extent>13 Folders</extent>
 </physdesc>
 <note>
 <p>
-Arranged by secretary; some gaps, may include titles of papersto be given, proposed candidates; many have no year; In 1950s RSVP to NYAM. In 1990s included lists of attendees, records of dues paid
+Arranged by secretary; some gaps, may include titles of papers to be given, proposed candidates; many have no year; In 1950s RSVP to NYAM. In 1990s included lists of attendees, records of dues paid
 </p>
 </note>
 <container label="Box" type="Box">1</container>
@@ -130,7 +130,7 @@ Arranged by secretary; some gaps, may include titles of papersto be given, propo
 <unittitle>Agendas / Schedules meetings and speakers</unittitle>
 <unitdate>1928-1209</unitdate>
 <physdesc>
-<extent>4 F</extent>
+<extent>4 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -145,7 +145,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Attendance records</unittitle>
 <unitdate>1921-2010</unitdate>
 <physdesc>
-<extent>8 F</extent>
+<extent>8 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -160,7 +160,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Number of meetings attended each year</unittitle>
 <unitdate>1991-1994</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">2</container>
 </did>
@@ -170,7 +170,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Papers re: Safaris</unittitle>
 <unitdate>1951-2011</unitdate>
 <physdesc>
-<extent>10 F</extent>
+<extent>10 Folders</extent>
 </physdesc>
 <note>
 <p>Incomplete; Includes correspondence about beginning “Safaris” may also include announcements, invitations, reports, attendance, and charges; some photographs.</p>
@@ -189,7 +189,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Minutes</unittitle>
 <unitdate>1898-2012</unitdate>
 <physdesc>
-<extent>1 B</extent>
+<extent>1 Box</extent>
 </physdesc>
 <note>
 <p>
@@ -204,7 +204,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Minutes</unittitle>
 <unitdate>1902-1934</unitdate>
 <physdesc>
-<extent>1 V</extent>
+<extent>1 Volume</extent>
 </physdesc>
 <note>
 <p>Largely hand written notes pasted in scrapbook</p>
@@ -226,17 +226,17 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Miscellaneous correspondence with NYAM</unittitle>
 <unitdate>1912-1959</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">5</container>
 </did>
 </c02>
-<c02 level="file">
+<c03 level="file">
 <did>
 <unittitle>Correspondence of Dr. Camac</unittitle>
 <unitdate>1908, 1920-1927</unitdate>
 <physdesc>
-<extent>6 F</extent>
+<extent>6 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -245,13 +245,13 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 </note>
 <container label="Box" type="Box">5</container>
 </did>
-</c02>
+</c03>
 <c02 level="file">
 <did>
 <unittitle>Letter to Dr. Holden from Grace R. Osler</unittitle>
 <unitdate>1920</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folders</extent>
 </physdesc>
 <container label="Box" type="Box">5</container>
 </did>
@@ -261,7 +261,7 @@ Some contain date of Safari and copies of invitations to dinner meetings; 1963-1
 <unittitle>Letter to Dr. Dana from Frederick Tillney</unittitle>
 <unitdate>1925</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -276,7 +276,7 @@ Re: Dr. Dana's resignation from Board of Neurological Institute
 <unittitle>Correspondence of Archibald Malloch</unittitle>
 <unitdate>1928-1949</unitdate>
 <physdesc>
-<extent>3 F</extent>
+<extent>3 Folders</extent>
 </physdesc>
 <note>
 <p>Includes some letters re: NYAM matters, and re: publication of <emph render="italic">Proceedings</emph></p>
@@ -289,7 +289,7 @@ Re: Dr. Dana's resignation from Board of Neurological Institute
 <unittitle>Correspondence of Drs. Gerster and Rake</unittitle>
 <unitdate>1950-1956</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">5</container>
 </did>
@@ -299,7 +299,7 @@ Re: Dr. Dana's resignation from Board of Neurological Institute
 <unittitle>Miscellaneous Correspondence,</unittitle>
 <unitdate>1955-1961</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">5</container>
 </did>
@@ -309,7 +309,7 @@ Re: Dr. Dana's resignation from Board of Neurological Institute
 <unittitle>Correspondence of Claude Heaton</unittitle>
 <unitdate>1960-1962</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">5</container>
 </did>
@@ -319,7 +319,7 @@ Re: Dr. Dana's resignation from Board of Neurological Institute
 <unittitle>Correspondence of Grant Sanger</unittitle>
 <unitdate>1970-1989</unitdate>
 <physdesc>
-<extent>3 F</extent>
+<extent>3 Folders</extent>
 </physdesc>
 <note>
 <p>General club business</p>
@@ -334,7 +334,7 @@ Correspondence of Grant Sanger Re: Dr. Dana’s portrait
 </unittitle>
 <unitdate>1978</unitdate>
 <physdesc>
-<extent>1F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -351,7 +351,7 @@ Correspondence of Grant Sanger Re: correspondence of Don Fawcett
 </unittitle>
 <unitdate>1979-19??</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -368,7 +368,7 @@ Correspondence of Grant Sanger Letter from George Humphries re: Osler
 </unittitle>
 <unitdate>1985</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -385,7 +385,7 @@ Correspondence of Grant Sanger Correspondence re: 90th anniversary
 </unittitle>
 <unitdate>1988</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -400,7 +400,7 @@ See also files on membership for texts of biographies of founding members and ot
 <unittitle>Correspondence of Goodwin Breinin</unittitle>
 <unitdate>1990-1994</unitdate>
 <physdesc>
-<extent>2 F</extent>
+<extent>2 Folders</extent>
 </physdesc>
 <container label="Box" type="Box">6</container>
 </did>
@@ -410,7 +410,7 @@ See also files on membership for texts of biographies of founding members and ot
 <unittitle>Correspondence of Andrew Frantz</unittitle>
 <unitdate>1995-2002</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">6</container>
 </did>
@@ -420,7 +420,7 @@ See also files on membership for texts of biographies of founding members and ot
 <unittitle>Miscellaneous papers of John Truman</unittitle>
 <unitdate>1988-2011</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -446,7 +446,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Membership / Admissions Committee reports</unittitle>
 <unitdate>1950-1959</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 
 <container label="Box" type="Box">7</container>
@@ -457,7 +457,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Nominations for Members</unittitle>
 <unitdate>1990-1993</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -467,7 +467,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Membership Lists</unittitle>
 <unitdate>1919-1977, 2003, 2012</unitdate>
 <physdesc>
-<extent>7 F</extent>
+<extent>7 Folders</extent>
 </physdesc>
 <note>
 <p>With gaps, some with contact information</p>
@@ -480,7 +480,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Membership Lists including spouses</unittitle>
 <unitdate>1998-2004</unitdate>
 <physdesc>
-<extent>2 F</extent>
+<extent>2 Folders</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -490,7 +490,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Former members died or resigned</unittitle>
 <unitdate>1953</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -500,7 +500,7 @@ Includes correspondence, Jan. 2010 booklet with minutes and reports
 <unittitle>Papers re: dinner honoring Dr. William Osler</unittitle>
 <unitdate>1905</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -517,7 +517,7 @@ Booklet from Annual meeting with quotations appropriate for members
 </unittitle>
 <unitdate>1910</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -527,7 +527,7 @@ Booklet from Annual meeting with quotations appropriate for members
 <unittitle>Papers re: 25th anniversary celebration</unittitle>
 <unitdate>1923</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -542,7 +542,7 @@ Includes program with minutes, letters, invitations, labels for exhibits
 <unittitle>Toast to R. Tait McKenzie</unittitle>
 <unitdate>1938</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -552,7 +552,7 @@ Includes program with minutes, letters, invitations, labels for exhibits
 <unittitle>Papers of and about Peyton Rouse</unittitle>
 <unitdate>1960-1975</unitdate>
 <physdesc>
-<extent>4 F</extent>
+<extent>4 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -567,7 +567,7 @@ Found in papers deposited with Charaka papers in 2005. They probably relate to J
 <unittitle>CVs</unittitle>
 <unitdate>1994, 1996</unitdate>
 <physdesc>
-<extent>2 F</extent>
+<extent>2 Folders</extent>
 </physdesc>
 <note>
 <p>Clyde Parker 1994, Jonathan E. Rhoads</p>
@@ -580,7 +580,7 @@ Found in papers deposited with Charaka papers in 2005. They probably relate to J
 <unittitle>Biographies of various Charakans</unittitle>
 <unitdate>1988</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Prepared for 90th anniversary</p>
@@ -593,7 +593,7 @@ Found in papers deposited with Charaka papers in 2005. They probably relate to J
 <unittitle>Papers re: dinner honoring Andrew Frantz</unittitle>
 <unitdate>2010</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">7</container>
 </did>
@@ -603,7 +603,7 @@ Found in papers deposited with Charaka papers in 2005. They probably relate to J
 <unittitle>Photographs</unittitle>
 <unitdate>nd - 2010</unitdate>
 <physdesc>
-<extent>4 F</extent>
+<extent>4 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -618,7 +618,7 @@ Portrait negatives of Frederick Peterson, Ward A. Holden, and Archibald Malloch;
 <unittitle>Memorials / Obituaries</unittitle>
 <unitdate>1919-1952</unitdate>
 <physdesc>
-<extent>½ B</extent>
+<extent>½ Box</extent>
 </physdesc>
 <note>
 <p>Alphabetical order; list available</p>
@@ -641,7 +641,7 @@ Portrait negatives of Frederick Peterson, Ward A. Holden, and Archibald Malloch;
 <unittitle>Miscellaneous papers</unittitle>
 <unitdate>1906-1988</unitdate>
 <physdesc>
-<extent>1 B</extent>
+<extent>1 Box</extent>
 </physdesc>
 
 <note>
@@ -657,7 +657,7 @@ Most of these files originated with Archibald Malloch; they include corresponden
 <unittitle>Communications Committee</unittitle>
 <unitdate>1944-1959</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -672,7 +672,7 @@ Most of these files originated with Archibald Malloch; they include corresponden
 <unittitle>Miscellaneous papers re: publications</unittitle>
 <unitdate>1926-1979.</unitdate>
 <physdesc>
-<extent>4 F</extent>
+<extent>4 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -687,7 +687,7 @@ Correspondence, evaluation of articles for possible publication
 	<unittitle>Notes for <emph render="italic">History of the Charaka Club</emph></unittitle>
 <unitdate>1978</unitdate>
 <physdesc>
-<extent>3 F</extent>
+<extent>3 Folders</extent>
 </physdesc>
 <container label="Box" type="Box">10</container>
 </did>
@@ -697,7 +697,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Texts of talks / papers</unittitle>
 <unitdate>1925-2009</unitdate>
 <physdesc>
-<extent>4 B</extent>
+<extent>4 Boxes</extent>
 </physdesc>
 <note>
 <p>Alphabetical and chronological lists available.</p>
@@ -736,7 +736,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Pages from Account Book</unittitle>
 <unitdate>1990</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">15</container>
 </did>
@@ -746,7 +746,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Record of dues payments</unittitle>
 <unitdate>1972-2000</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <p>With gaps</p>
 
@@ -758,7 +758,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Cash Receipts</unittitle>
 <unitdate>1966-1967</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Check list of dues and dinner payments</p>
@@ -771,7 +771,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Bank Correspondence</unittitle>
 <unitdate>1953-2001</unitdate>
 <physdesc>
-<extent>4 F</extent>
+<extent>4 Folders</extent>
 </physdesc>
 <note>
 <p>Re: officers signatures, and Dr. Sanger’s estate</p>
@@ -799,7 +799,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Small card with Charaka seal</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Possibly from menu</p>
@@ -812,7 +812,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Menus</unittitle>
 <unitdate>1906, 1910</unitdate>
 <physdesc>
-<extent>2 F</extent>
+<extent>2 Folders</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -822,7 +822,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Rooster print / engraving</unittitle>
 <unitdate>1914</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Probably used on menus and place cards</p>
@@ -835,7 +835,7 @@ Correspondence, evaluation of articles for possible publication
 <unittitle>Program mockup for meeting</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -849,7 +849,7 @@ Fabricious ; cover has caricature and name, Dr. Holden
 <unittitle>Dr. Dan’s Charaka Balm</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>By Dr. Allen McLane Hamilton</p>
@@ -862,7 +862,7 @@ Fabricious ; cover has caricature and name, Dr. Holden
 <unittitle>Papers re: trip to Boston for meeting</unittitle>
 <unitdate>1915</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -872,7 +872,7 @@ Fabricious ; cover has caricature and name, Dr. Holden
 <unittitle>Book Stamp</unittitle>
 <unitdate>1915?</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 	<p>For Dr. George Walton as author of <emph render="italic">Peg Along</emph></p>
@@ -885,7 +885,7 @@ Fabricious ; cover has caricature and name, Dr. Holden
 <unittitle>Music</unittitle>
 <unitdate>1998-1925</unitdate>
 <physdesc>
-<extent>3 F</extent>
+<extent>3 Folders</extent>
 </physdesc>
 <note>
 <p>
@@ -902,7 +902,7 @@ Typescripts of texts Horace and of The Venerable Bede
 </unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Possibly from Dr. Dana</p>
@@ -915,7 +915,7 @@ Typescripts of texts Horace and of The Venerable Bede
 <unittitle>Notes etc. for talk on writers on angling</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -927,7 +927,7 @@ Text of talk by Warren Powers Laird on Willard Fillmore
 </unittitle>
 <unitdate>1940</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -942,7 +942,7 @@ Given in Philadelphia at Pennsylvania Society for the Order the Founders and Pat
 <unittitle>Summa Cum Laude</unittitle>
 <unitdate>1946?</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -957,7 +957,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Images of “Fortune”</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Possibly illustrations for a talk</p>
@@ -970,7 +970,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Biography of Tracy Jackson Putnam</unittitle>
 <unitdate>1988</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>Article from journal</p>
@@ -983,7 +983,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Unattributed poetry</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -993,7 +993,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Samples of Charaka stationery</unittitle>
 <unitdate>n.d.</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -1003,7 +1003,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Covers / envelopes from miscellaneous letters</unittitle>
 <unitdate>1925-1984</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -1012,7 +1012,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <did>
 <unittitle>Duplicates of various early printed items</unittitle>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -1027,7 +1027,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 	<unittitle><emph render="italic">Syphilis: poeme en trios chants</emph></unittitle>
 <unitdate>1848</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>By Barthelemy</p>
@@ -1043,7 +1043,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 </unittitle>
 <unitdate>1907</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -1053,7 +1053,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Booklet of verse re: members for annual meeting</unittitle>
 <unitdate>1910</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <container label="Box" type="Box">16</container>
 </did>
@@ -1063,7 +1063,7 @@ Toast by George Humpheys to Allen Whipple and his surgical team on his retiremen
 <unittitle>Booklet of Appreciation</unittitle>
 <unitdate>1916</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
@@ -1078,7 +1078,7 @@ By Dr. Charles L. Dana; thanking each member of the club for his portrait that t
 <unittitle>Booklet of Poems</unittitle>
 <unitdate>1933</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 	<p><emph render="italic">Another Spring</emph> by Marie Falconer</p>
@@ -1093,7 +1093,7 @@ Wax impressions of the seal on the signet ring with supporting papers
 </unittitle>
 <unitdate>1925</unitdate>
 <physdesc>
-<extent>1 F</extent>
+<extent>1 Folder</extent>
 </physdesc>
 <note>
 <p>
